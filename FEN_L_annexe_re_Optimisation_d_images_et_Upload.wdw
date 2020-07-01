@@ -10,12 +10,12 @@ info :
 window :
  name : FEN_L_annexe_re_Optimisation_d_images_et_Upload
  identifier : 0x2efc0ea100767ee4
- internal_properties : BQAAAAUAAAAPDg1HudQlI5YUBPb4w9N6IQVw9VpHDl25aylgb9eVSz5+geg2rTwfuI9CMoEXIn1PcQrasR8hJ/AVmfxUSAgDZgQgL3ex/6Q3qIiXtDCtp2lgQNhLRXEstZKFeCsXxCgNr7CxASobbZThHZfkmcbBID2ShfHCezmvtzpQZi6Dr8wz6278TVIVJvlzdqe/SLu6uL5avXMovHBPWxkPmsL+wzYxFPcuoirVmI1VmRVHbKA1mjk4ocsYwAkBuuWiGJ0ifUJvjmMlzVK7gqeILHDLy3XZr0afi14F/XB3Ze8+4NRH37hYGR4igfuAB1HZ6ra2RaIelHoJ1C8GK5mJQaToKtB5oYxVqzsOVooV2IxAkCQQXrW8Zt1o20flUAwZzTvE2NX4fI2tR3w3DQi5FDf7pkhAuOkTNaWmTQTqklmGbVvktOd2AS90pApi5b2WEC1Dl1oJJQ9t4KaOkJyKp7U3NJwp5SUEpXj8qSzedWEuF9O6UebxXlcYnQx0wy2tKQeQrHvNEWXZC0U0ebS8jsyEFbopFuW/im8CvsEtAnIvDyEG8Sq5lPk9fYlyE8P0rcr7Fc5zZ7kn+Ph3FGzQEQorJTZVW2AXpB1qVkRlltcO784sJeNItu1NsSR+vnhxgUu3BwrWZ6W4olZOtSzdlnFRd59mjLdXToj+IHBlDho7jhcxayJeA2eV4ZrhMhHYseHNXx6aUgsaUzsdPrkgH9/aRXrpCK2SY8OguBrNZT3IFAk=
+ internal_properties : BQAAAAUAAAAn7WXXAsnVXhIYf8fGRh5QhdgBLI3SyuQtUEShts748UkVPk5g5siXVnznRaVo1OAU0o7gH7cqOnunZWiqL7bxIbtL8cv+f0WFLEgBZkFTt7QfTrz3eU/7DYjtRltcnr5aIc4BT3qTRkMNb5+tzE/x3EuAO2dc35MzzHNLFxKeQNgquw9F2hgcuxGkN6cCOsfSp26Fnf+5QFuGYc7mknoDKeKE+eSzhwTfL5lMZWwP0IPgIxDMQvA1goKh8gXdEI6asPpxrKJP5zSyBC1sQL8tNb0NTV6xKRG9IPT9a9sN62K3yUXX7lb92ix3iqnaMq61/5dYqK2x6BZNiezvZgefbNTYEBVngx8eZNzitv5zuEBDDpGKUfa/ajGn4/6XC1voXnNNypHpztYSUbrZ9uM4cMXAlN2siJ1/Ao4jPiZYuRABufZA+DcQHbU6ezdSZa14qy4vAbLW3eNVz5AkV3FGqxGbMd3zjycarDZT/nKbV8O7IHZvA5pUvcVo2M1q6HX5YEFNDKMbofv84sXBCIlCZOgewDHu6EAhSS+lV6TdmlptkksubotUnkJDNm2yG/8nETuUvP+2QuUBO0j/AKx3X+IJ/BADP3NWa6Ua2LQj5iwNqPx18MXwpbNROTckMJWsX0cB7qkmVTQEuMuAwQoLKvFzvXzV4rMiRp8SJ2n27CoeXxCgln5nugkhqsM4bcz7PrI63iGmIzup8cwncv7UuIYys50tap+D+chBj/zdC0vIBA==
  controls :
   -
     name : EI_SansNom1
     identifier : 0x2efc0ee300a37ea1
-    internal_properties : BQAAAAUAAAC6rTaco42Dvx6Mt/MPkBev+bvHNJcfp5KVoacWf+veHw11y4Q4LdljnisRLfnHVKOOpgNy8JfMP5Hlftb9QjCxI2R1yedE4DEH8wz7YqobE4qko+AC+xJRriPFfGFghSmpA+GmF2ZKtBnaMgUOiUnOVbmXjoFCqD+VIo0GJpP548/pbLJLhVHkF1UbnTopQA+XJjD7f9mdVjIiWonONSz09eiMR66RLCpbxyDEhYXCZXxsgFGaaPMN6L3FkUy/zRDKHA7LPVtV0UPtwWwUH4ffNLR1LziD9rUjlRjiG79HPe43TCsC4jaAd5DJIuf8jHQzatsOrakkLAJHX6qdB316L+DguvMXuKT4qgmLC542JGGnwnva8jJmlwyz3WOhWuB+6ty8WQOmBJBwElVQGiJ8Q4cHtRRmJUBy8nRFp53njHTr0kdfDzBT3lbOjZuZdwEo7VQdHzXpv82KRCNPLhLRW552TShl2rSba/8tLblw7oqrWs0AixChlB43qpoS9OqLSqQnKHbD2hZ8IpFYJLy0hBNjXSD4ssr9wIl852/XkcK+cPamHuSOMqt/OSX7Z9E6ZkU+
+    internal_properties : BQAAAAUAAAC2IQKIT/mvW3pwOyezpEvjPQcb6Ltz27b5LQNiS6caW0k5B7DEmeU/us/1EZ2bqAcyYkc2NOuAQ0WB2nKZbgytH1hBNUPWON0jz1APOjZLQ0bYm1yWF1KVWvdhEDGcZYHVlyn6M2pqSG3+hoEuZZEG8fWfQoXu0LNJ1tEabtdxg3sdjAangRkgc/EfwSq9mKd7ivgPa0XFUs5Oho0uCQw8QURUG1ptFN4fQ5zwZSmC1QDgkPU+XPv5LAnxtYwzpZBuOB5P8f+NPZd5zfgsU/ffEKCtcywXPmGHMRrUSWmRi1xtFq2IlPByJTJrVLXG1tKZgC0oY/Nu9vghmRQbQcfQHf6CVMl5Kha+xPP1EZjYqm+ddP14bLywDdbt//H7fPbsQFbmR20AHi6STBcmfDwK+S25BxqIP5LQ9FZfzQfpsoKhxFltqcolzHgAp5HL0c9u26a3dQ/D4cMURjW9mBzfSfzAr26vPBZJHblvo0vUUm6XTtn0nyy98LpTVk5OMKbHDuB7xJLn/kogRrWECFDIuM+nmeQ8/paJXBXoC0vzrf5yvDpiWhhC5h/jnUHfe+UuUrlK
     type : 124
     code_elements :
      type_code : 149
@@ -88,7 +88,11 @@ window :
         internal_properties : BQAAAAUAAAB9STkWqKY7QDb2wsQqmXvPRvIUU+aQHZvALdJxiKmC4DElzqiD9rMWb7e7ujdSNs6DoY+6Vv6H9vqMLbERTHzYHcLLz5MVOp1cSs1FBzZog2IckxweYcs7JLLXQKjTdFo/92LKuSXcFYk4qXIhlkGfwadM81IHp597zFUmAUjoanjvHPvdgNRPK+aG6ZMGV21VtPXoWA==
         code_elements :
          type_code : 26
-         p_codes : []
+         p_codes :
+          -
+            code : |1+
+             sauvegardeWEB()
+            type : 32
       -
         name : OPT_Envoyer_sur_le_site_de_l_Annexe
         identifier : 0x2efc62a801a3f592
@@ -234,6 +238,47 @@ window :
       EI_SansNom1 = MonImage
       
       
+      
+      
+     type : 458752
+   -
+     name : sauvegardeWEB
+     procedure_id : 2232771351922730550
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // sauvegardeWEB ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure sauvegardeWEB()
+      MonImage est une Image
+      MonImage = EI_SansNom1
+      
+      sNomImage est une chaine = Ouvre(FEN_Entrez_le_nom_de_l_Image)
+      
+      
+      si sNomImage <> "@" ALORS
+      	bResultat est un booléen
+      	// Sauvegarde l'image
+      	bResultat = dSauveImageJPEG(MonImage, sNomImage+".JPG", 30)
+      	
+      	SI bResultat ALORS
+      		Info("Image Sauvegardée")
+      	SINON
+      		Erreur(ErreurInfo())
+      	FIN
+      sinon
+      	info("Image non sauvegardée car pas de nom de fichier")
+      
+      FIN
       
       
      type : 458752
