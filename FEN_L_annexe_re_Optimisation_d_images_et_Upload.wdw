@@ -15,7 +15,7 @@ window :
   -
     name : EI_SansNom1
     identifier : 0x2efc0ee300a37ea1
-    internal_properties : BQAAAAUAAACw2RkIUXGSVyC+pN1kUDqJ/c2F5XR5A1Y/aFD/FCDH0hJU61eWKRV1Owz/nHzeWjx4SWpxa2CLdZp/85tx5xHGxewFbR8tS8e66ZjwhBpIn05fmqYt4HQkZJgUuZx7XK26d3+tODhXMoUNSNxFVDUIPJeVsAaPy5szU+VgwoixpKZ1HkKmxeYjCjrJ/RN9eLrW2GI+z3b/IC9fgqG4Jmn1FWoJrwGhmEuyHq+00m+gbI+CZR6aYSAyberKOKnFecMa9pBgxrMzj6httfAofMRu2lqLAtNtZ/Jb4dXRVA/YIxkhTNwrYAem1ShI60iuUfyWxvF3LH2xGMJ1WhcMAb50bJ4Y69pBP1KG+gAGTOCj5ExxGlJppKNo4UyQ+pT1ZxJXSp4FOp97xMSe9+bvzA+MLNnLwhGI8mQCpHcCTg0agDVrQKyyZUvTQrQZbpB9RgMR30x8phEQw22QIdYegMv7IJRCJvmBvXy/LXLOqoOkad4gPcVsoc3JPzWl6klcZSkXR0t3wPcxWZqluCu+fqIfwrG2QhtMRVKgBin1+ZuPLFDWXsMJ0Mdf419IjNHQG8bbPlErDw==
+    internal_properties : BQAAAAUAAAA8dZ2E3Y0e06wqKFEIJG6tYUEBafiN9/qTDGyrgExjvm7gj/OiFSFhZygj8IBizoAsbRYFL6TPSd4zv1dNs02SsahJSet56t3gNcz62np0Y1gHzPbvJrj6aozod0Y/9A0M93ltYsJP/HMRIN5LmP14vocHkMQN/1W5L/VW9KDNuMDNJDaUP66ZTAKJS601pM7E1FQm1XSLUv0bfjea+mV501YDj29zkDlQGn/SlC9UeMlayyrwE4B041Zilttl+VOcBrLA+Hn/WXplBfZCQOxecEZVYpGTExDtse6WPxbTCm74k1ne6/ybntExbO9JfJtnnaiQ05S6MStOgwwfCKn75RWvQMX8dHfjJ8V/83Mes63UjeugQ8Qhbgkh46vAUglcUZUSLerQiZGrrDM6sybHyXwGGyhXU9W7nQA/gSTN54pCp8W5HAQItzmqM0NUcTrWGl8h4TxFhCrd8j+NO5Y64cN5f5Bwvn1kwseztWr4PTL8AYGgdZkVSwHxpg2YoeVTe3db7IPF7W7JXE+akpYT1k3arq/w4e4MskWRXQcbuNxa2kd1rJuzN+PMAE1Un0pfutWXkw==
     type : 124
     code_elements :
      type_code : 149
@@ -28,7 +28,29 @@ window :
    -
      name : OPT_Menu
      identifier : 0x2efc0ea80077981a
-     internal_properties : BQAAAAUAAABVHJHnSLfEUUJHFDeXmgw61HuXez0bjrvenD+7WqpF1tuGlSeYHPheRkDYTKys2+c9ija3H3XkVRvWz4BPIwCjRoGbLPN6wqlw/we2zfUDQvJJYkaIi2W91JYHjqf1PKUXqxSxpip75RRdP/r0WD058+jVxd75dCZABnp1uRWK9mpU1A==
+     internal_properties : BQAAAAUAAAA7RFBDduWdNvQd5n//m2b1zNv9P5Fj6CfhAJ/c8Kcb0Vt+v9DQqg72CID0WL8F7usE1G9+S7oa+lKWUcEZGBcP1u4djPbsi+rHa2JePlaTT0c1oWPIvt4aMbOXXhak4konVdEO5ptp4aqK6Yf6gD4b08FqC8EOOAwFxxpggPhaS5rhWZSH9hpvU7SEYu58PD2uqg==
+     options :
+      -
+        name : OPT_Nouvelle_Image_1500_x_1500_Fond_Blanc
+        identifier : 0x2efc103501aaa82a
+        internal_properties : BQAAAAUAAACILkVzUKFjN1aCJGsfO8m28rqnQLeQtysDDS547ofD8Hek+uZkTnMlUl834A5alm4Nb46tATA0GoXc0wSM1diAfOihuPNKbDJDqlLgappgSn32pUoK7onDDVIuIB4nTxAt4EGieCggWGGGigVN4AlfStBauLD0ztsV/m4QYqI9yNKR6EvJtIITLYt8Nx1B/mQCeMgMXDUjik8NTeWn3yJ6UXcF8g==
+        code_elements :
+         type_code : 26
+         p_codes : []
+      -
+        name : OPT_Nouvelle_Image_1500_x_1500_Fond_Transparent
+        identifier : 0x2efc104601acec95
+        internal_properties : BQAAAAUAAACUFjv4WH7t4wEljISBTB+4rKfy3VZRE/LuBO5pa5Nd7vGA1MytYIo5/BFXrzMbIfFBJRm8JxQ41xYbR0krBFmCVIUN4q4BtWEGSSAPk94RgMxXMFk8ulC8xtmy90BZg3kpMhiBXlf40P9wkXJ07BxdS7CGEOxwCMyGJZZsKjbAegHcFY+2onbmih3D0rO1nE4bX/5SDs/6A/ibNcVOxGBJmxfFTP/yh6cbCQiT
+        code_elements :
+         type_code : 26
+         p_codes : []
+      -
+        name : OPT_Nouvelle_Image_1500_x_1500_Fond_Personnalisé
+        identifier : 0x2efc10e201ae4aaa
+        internal_properties : BQAAAAUAAACtwUAhfXkSVgKaWdd+UoAXQcJce+BvwWQm7Wb7T59HwI9qQtiDBhpVfkf/XdR7zY0J3Q8CNwyUSbJHi50BQhJ9Q98lrZCHyF3vXrXwXPmzLLReFL06ZqDm/Cc0DKUBP5KwoUaxFjWVysiZRo9dFHJR16zS9LImog723wzylFyeVerBhHrH8XnrjaBWjWiQZZVgHLogUFUEbZZ5EiH8RPsm5spQMUR3nrQEQjGq
+        code_elements :
+         type_code : 26
+         p_codes : []
      code_elements :
       type_code : 26
       p_codes : []
@@ -49,6 +71,45 @@ window :
    -
      type : 230
      enabled : false
+  procedures :
+   -
+     name : NouvelleImage1500
+     procedure_id : 2232678198376905104
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //NouvelleImage1500 (<nParamimage> est entier)
+      //
+      // Paramètres :
+      //	nParamimage (entier) : <indiquez ici le rôle de nParamimage>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure NouvelleImage1500(nParamimage est un entier)
+      
+      selon nParamimage
+      	cas 1
+      		
+      	cas 2
+      		
+      	cas 3
+      		
+      	AUTRE CAS
+      		
+      FIN
+      
+      
+      procédure interne imageCré()
+      	PicCrée(EI_SansNom1,picImage,1500,1500)
+      FIN
+      	
+     type : 458752
+  procedure_templates : []
+  property_templates : []
  code_parameters :
   internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
   original_name : Modele1
