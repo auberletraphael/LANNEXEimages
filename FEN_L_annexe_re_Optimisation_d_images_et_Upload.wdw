@@ -282,6 +282,26 @@ window :
       
       
      type : 458752
+   -
+     name : UploadImage
+     procedure_id : 2232810358815458495
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // UploadImage ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure UploadImage()
+      
+     type : 458752
   procedure_templates : []
   property_templates : []
  code_parameters :
