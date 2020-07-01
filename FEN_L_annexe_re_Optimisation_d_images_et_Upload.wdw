@@ -10,12 +10,12 @@ info :
 window :
  name : FEN_L_annexe_re_Optimisation_d_images_et_Upload
  identifier : 0x2efc0ea100767ee4
- internal_properties : BQAAAAUAAAAs48enlJazUPw0OHdfkiovSVR44rNfhIb31zGaifTUemhFGyfLK25+HvMe0k2Ive7XvGJtRhHjZqBtsnT2cUElrikClr5dMc/f8jiaiJ1AfsfjdHuymQeSJ1RpReeIheVZ6pa0SeTBOjNJnfAkTKnKEcZyqGoNUcRzS7RfyJsu5vTC3SlLC6r8yh+tvQWi+cCWtXDbmvfmMUzvh2yRWbNH1/e3/cw4hBN5iPMy1cbWgWCU/FSnp8lVXN8dUDXt//Bl89KOjx4HH4STl6c6F+WT/JLp6G2sMov0LDTOa2ycuZObC6Pm65mr33NXne9SCg3AQzKh4ELhDoxnLiQiEu3WMVkekTj8rqthOJSW37dH25mx7U5N48Tx8XD/c23aci6K3Or7ytj5SNofsTs2AU0K3YiF4TqVn5LY1eQqi421jXVYkuQVyS/rKTQRfFIJfeeAAYlsC17ZUl4QXSX40jJOoUn90otT+ymcONkrM3hG5k2UaVsEuQOX6agzLgIEj0TLtQQ1bOOe6HO70NZttDc/5o51OvHYgPrOIZjhgzmVa+P4RZcMdFS6wvVDftNwrN6vJ82fT6KxT+2tEIQUl+LEsxfxN9XwEhQPqNq1w/Ku+wCQtkCqi4B8AzzJmp901K11d1EU57li0J1KmeCnDiToK7yEnnNzf9kKga1JeqP5Uj9WD1nHGlccviZHGSo/csozevwwXbMaHDGVCjcVBjyefZwiZ1FSauRiGk4rTlJuDyZO9AbZxg==
+ internal_properties : BQAAAAUAAAAPDg1HudQlI5YUBPb4w9N6IQVw9VpHDl25aylgb9eVSz5+geg2rTwfuI9CMoEXIn1PcQrasR8hJ/AVmfxUSAgDZgQgL3ex/6Q3qIiXtDCtp2lgQNhLRXEstZKFeCsXxCgNr7CxASobbZThHZfkmcbBID2ShfHCezmvtzpQZi6Dr8wz6278TVIVJvlzdqe/SLu6uL5avXMovHBPWxkPmsL+wzYxFPcuoirVmI1VmRVHbKA1mjk4ocsYwAkBuuWiGJ0ifUJvjmMlzVK7gqeILHDLy3XZr0afi14F/XB3Ze8+4NRH37hYGR4igfuAB1HZ6ra2RaIelHoJ1C8GK5mJQaToKtB5oYxVqzsOVooV2IxAkCQQXrW8Zt1o20flUAwZzTvE2NX4fI2tR3w3DQi5FDf7pkhAuOkTNaWmTQTqklmGbVvktOd2AS90pApi5b2WEC1Dl1oJJQ9t4KaOkJyKp7U3NJwp5SUEpXj8qSzedWEuF9O6UebxXlcYnQx0wy2tKQeQrHvNEWXZC0U0ebS8jsyEFbopFuW/im8CvsEtAnIvDyEG8Sq5lPk9fYlyE8P0rcr7Fc5zZ7kn+Ph3FGzQEQorJTZVW2AXpB1qVkRlltcO784sJeNItu1NsSR+vnhxgUu3BwrWZ6W4olZOtSzdlnFRd59mjLdXToj+IHBlDho7jhcxayJeA2eV4ZrhMhHYseHNXx6aUgsaUzsdPrkgH9/aRXrpCK2SY8OguBrNZT3IFAk=
  controls :
   -
     name : EI_SansNom1
     identifier : 0x2efc0ee300a37ea1
-    internal_properties : BQAAAAUAAAA8dZ2E3Y0e06wqKFEIJG6tYUEBafiN9/qTDGyrgExjvm7gj/OiFSFhZygj8IBizoAsbRYFL6TPSd4zv1dNs02SsahJSet56t3gNcz62np0Y1gHzPbvJrj6aozod0Y/9A0M93ltYsJP/HMRIN5LmP14vocHkMQN/1W5L/VW9KDNuMDNJDaUP66ZTAKJS601pM7E1FQm1XSLUv0bfjea+mV501YDj29zkDlQGn/SlC9UeMlayyrwE4B041Zilttl+VOcBrLA+Hn/WXplBfZCQOxecEZVYpGTExDtse6WPxbTCm74k1ne6/ybntExbO9JfJtnnaiQ05S6MStOgwwfCKn75RWvQMX8dHfjJ8V/83Mes63UjeugQ8Qhbgkh46vAUglcUZUSLerQiZGrrDM6sybHyXwGGyhXU9W7nQA/gSTN54pCp8W5HAQItzmqM0NUcTrWGl8h4TxFhCrd8j+NO5Y64cN5f5Bwvn1kwseztWr4PTL8AYGgdZkVSwHxpg2YoeVTe3db7IPF7W7JXE+akpYT1k3arq/w4e4MskWRXQcbuNxa2kd1rJuzN+PMAE1Un0pfutWXkw==
+    internal_properties : BQAAAAUAAAC6rTaco42Dvx6Mt/MPkBev+bvHNJcfp5KVoacWf+veHw11y4Q4LdljnisRLfnHVKOOpgNy8JfMP5Hlftb9QjCxI2R1yedE4DEH8wz7YqobE4qko+AC+xJRriPFfGFghSmpA+GmF2ZKtBnaMgUOiUnOVbmXjoFCqD+VIo0GJpP548/pbLJLhVHkF1UbnTopQA+XJjD7f9mdVjIiWonONSz09eiMR66RLCpbxyDEhYXCZXxsgFGaaPMN6L3FkUy/zRDKHA7LPVtV0UPtwWwUH4ffNLR1LziD9rUjlRjiG79HPe43TCsC4jaAd5DJIuf8jHQzatsOrakkLAJHX6qdB316L+DguvMXuKT4qgmLC542JGGnwnva8jJmlwyz3WOhWuB+6ty8WQOmBJBwElVQGiJ8Q4cHtRRmJUBy8nRFp53njHTr0kdfDzBT3lbOjZuZdwEo7VQdHzXpv82KRCNPLhLRW552TShl2rSba/8tLblw7oqrWs0AixChlB43qpoS9OqLSqQnKHbD2hZ8IpFYJLy0hBNjXSD4ssr9wIl852/XkcK+cPamHuSOMqt/OSX7Z9E6ZkU+
     type : 124
     code_elements :
      type_code : 149
@@ -28,7 +28,7 @@ window :
    -
      name : OPT_Menu
      identifier : 0x2efc0ea80077981a
-     internal_properties : BQAAAAUAAAA7RFBDduWdNvQd5n//m2b1zNv9P5Fj6CfhAJ/c8Kcb0Vt+v9DQqg72CID0WL8F7usE1G9+S7oa+lKWUcEZGBcP1u4djPbsi+rHa2JePlaTT0c1oWPIvt4aMbOXXhak4konVdEO5ptp4aqK6Yf6gD4b08FqC8EOOAwFxxpggPhaS5rhWZSH9hpvU7SEYu58PD2uqg==
+     internal_properties : BQAAAAUAAAAalaGs5lTy7QDrTIXgZeXtaeqQ8L5EubNyLPJmzDvBJ0L6yTlEsoMmDA77va0+2Pc/Hg65DyPAlB5W9Tj+YDF2Q+nFqpgwGhitp6CXrWzVozUUDKHSd2JgAlOuArC7neQIbYEtOZBm1uwbFdupZU/8BWQZrAYKys8UBejg5N+tBKG7DzKeK1Z84iwNj0pTz8hHmQZG2fI=
      options :
       -
         name : OPT_Nouvelle_Image_1500_x_1500_Fond_Blanc
@@ -36,18 +36,63 @@ window :
         internal_properties : BQAAAAUAAACILkVzUKFjN1aCJGsfO8m28rqnQLeQtysDDS547ofD8Hek+uZkTnMlUl834A5alm4Nb46tATA0GoXc0wSM1diAfOihuPNKbDJDqlLgappgSn32pUoK7onDDVIuIB4nTxAt4EGieCggWGGGigVN4AlfStBauLD0ztsV/m4QYqI9yNKR6EvJtIITLYt8Nx1B/mQCeMgMXDUjik8NTeWn3yJ6UXcF8g==
         code_elements :
          type_code : 26
-         p_codes : []
+         p_codes :
+          -
+            code : |1+
+             NouvelleImage1500(2)
+            type : 32
       -
         name : OPT_Nouvelle_Image_1500_x_1500_Fond_Transparent
         identifier : 0x2efc104601acec95
         internal_properties : BQAAAAUAAACUFjv4WH7t4wEljISBTB+4rKfy3VZRE/LuBO5pa5Nd7vGA1MytYIo5/BFXrzMbIfFBJRm8JxQ41xYbR0krBFmCVIUN4q4BtWEGSSAPk94RgMxXMFk8ulC8xtmy90BZg3kpMhiBXlf40P9wkXJ07BxdS7CGEOxwCMyGJZZsKjbAegHcFY+2onbmih3D0rO1nE4bX/5SDs/6A/ibNcVOxGBJmxfFTP/yh6cbCQiT
         code_elements :
          type_code : 26
-         p_codes : []
+         p_codes :
+          -
+            code : |1+
+             NouvelleImage1500(1)
+            type : 32
       -
         name : OPT_Nouvelle_Image_1500_x_1500_Fond_Personnalisé
         identifier : 0x2efc10e201ae4aaa
         internal_properties : BQAAAAUAAACtwUAhfXkSVgKaWdd+UoAXQcJce+BvwWQm7Wb7T59HwI9qQtiDBhpVfkf/XdR7zY0J3Q8CNwyUSbJHi50BQhJ9Q98lrZCHyF3vXrXwXPmzLLReFL06ZqDm/Cc0DKUBP5KwoUaxFjWVysiZRo9dFHJR16zS9LImog723wzylFyeVerBhHrH8XnrjaBWjWiQZZVgHLogUFUEbZZ5EiH8RPsm5spQMUR3nrQEQjGq
+        code_elements :
+         type_code : 26
+         p_codes :
+          -
+            code : |1+
+             NouvelleImage1500(3)
+            type : 32
+     code_elements :
+      type_code : 26
+      p_codes : []
+   -
+     name : OPT__2_Importer_l_image_Produit
+     identifier : 0x2efc583c019541f4
+     internal_properties : BQAAAAUAAADRB6/jDU6RuC3JIfZYiGCEM4COZsFI/wmn0CmhsmAAcjQyZPjRAjGdRoHcBgG7UOByX9onyXW1M2qoF2UCBnuo9iWj8rXfdY5uZWcq7bK1FyvJx64BaC9CkinVF/uuUDi4jymRpwKpnXrGcnO0XpMKDWeSMEPbiGQJkj683AnPJwkvlBY06qhxNLOuJPwxlisGOG/cdD3/b25bvPpAYw==
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         code : |1+
+          importeImage()
+         type : 32
+   -
+     name : OPT__3_Enregistrer
+     identifier : 0x2efc627a019c41b3
+     internal_properties : BQAAAAUAAAB7BJCDNt6nHKBr0kMNIS7lCvC7NSfJPlUrXiF6vn1pOxlI1vnZ+LcVuSl1aQ0FNMD/wb24JsaX1Pq45TEzAodZWqitHPT6XcALDifZq8mYWgz8lBQfJzUbVJROJ6kh7X/m+ExznSRg3g8Hdiq54jJJ5eMEcW+g1qLHAcyu1mJofaOKtLli013M0lFX0668fP3uag==
+     options :
+      -
+        name : OPT_Sauvegarder_l_Image
+        identifier : 0x2efc629501a1ab4a
+        internal_properties : BQAAAAUAAAB9STkWqKY7QDb2wsQqmXvPRvIUU+aQHZvALdJxiKmC4DElzqiD9rMWb7e7ujdSNs6DoY+6Vv6H9vqMLbERTHzYHcLLz5MVOp1cSs1FBzZog2IckxweYcs7JLLXQKjTdFo/92LKuSXcFYk4qXIhlkGfwadM81IHp597zFUmAUjoanjvHPvdgNRPK+aG6ZMGV21VtPXoWA==
+        code_elements :
+         type_code : 26
+         p_codes : []
+      -
+        name : OPT_Envoyer_sur_le_site_de_l_Annexe
+        identifier : 0x2efc62a801a3f592
+        internal_properties : BQAAAAUAAAC4Hla4pMk4H3xgLv9h9z0JTSpsZG3K0aMpSomymycX8aCMvzODxYrYhbg23Cgw796aobDO8u9foME/4BKnsbTp2ZiW95gCxMYqmS0g5zJ9cIjmpH0SEeiFoSjcACTFW0Wn9hBSgAm2sF/7P26TLYh9juB7457sk3m+x/tfo1g6jJzyN+vfOQOK797b1+P0VWTxW3rZ0YBU+uXCE6Mpig==
         code_elements :
          type_code : 26
          p_codes : []
@@ -76,7 +121,7 @@ window :
      name : NouvelleImage1500
      procedure_id : 2232678198376905104
      type_code : 14
-     code : |1+
+     code : |1-
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
       //NouvelleImage1500 (<nParamimage> est entier)
@@ -93,20 +138,104 @@ window :
       
       selon nParamimage
       	cas 1
-      		
+      		imageCré()
       	cas 2
-      		
+      		imageCré()
+      		fondCré(16777215)
       	cas 3
+      		nCouleur est un entier
+      		SI SelectCouleur(nCouleur) ALORS
+      			// Une couleur a été choisie, nCouleur contient la nouvelle couleur
+      			imageCré()
+      			fondCré(nCouleur)
+      		FIN
+      		
+      		
+      		
       		
       	AUTRE CAS
+      		info("Erreur du sélecteur de création d'image")
       		
       FIN
       
       
-      procédure interne imageCré()
-      	PicCrée(EI_SansNom1,picImage,1500,1500)
-      FIN
+      	procédure interne imageCré()
+      	// Création d'une Image 1500 x 1500 pixels
+      	si PicCrée(EI_SansNom1,picImage,1500,1500) = faux ALORS
+      		Erreur(ErreurInfo())
+      	FIN
+      	FIN
+      
+      	procédure interne fondCré(nValCouleur est un entier)
+      	// Ouverture d'une image source
+      	MonImage est un WDPic
+      	MonImage=EI_SansNom1
       	
+      	// Ajout d'un calque contenant un rectangle
+      	CalqueRectangle est un picCalque
+      	CalqueRectangle..Nom		= "Fond"
+      	CalqueRectangle..Largeur	= 1500
+      	CalqueRectangle..Hauteur	= 1500
+      	dRectangle(CalqueRectangle, 0, 0, 1500, 1500, nValCouleur)
+      	
+      	
+      	
+      	Ajoute(MonImage..Calque, CalqueRectangle)
+      	
+      	
+      	// ré affichage de l'image dans l'éditeur
+      	EI_SansNom1 = MonImage
+      	
+      	fin
+     type : 458752
+   -
+     name : importeImage
+     procedure_id : 2232750267928151286
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // importeImage ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure importeImage()
+      // Ouverture d'une image source
+      MonImage est un WDPic
+      MonImage=EI_SansNom1
+      
+      // Ajout d'un calque contenant une photo
+      CalqueImage est un picCalque
+      CalqueImage..Nom		= "Photo"
+      //CalqueRectangle..Largeur	= 1500
+      //CalqueRectangle..Hauteur	= 1500
+      //dRectangle(CalqueRectangle, 0, 0, 1500, 1500, nValCouleur)
+      
+      sFichier est une chaîne
+      
+      // Ouvre le sélecteur d'images
+      sFichier			= fSélecteurImage("", "", "Sélectionnez une image...")
+      
+      
+      CalqueImage..Image	= dChargeImage(sFichier)
+      
+      
+      
+      Ajoute(MonImage..Calque, CalqueImage)
+      
+      
+      // ré affichage de l'image dans l'éditeur
+      EI_SansNom1 = MonImage
+      
+      
+      
+      
      type : 458752
   procedure_templates : []
   property_templates : []
