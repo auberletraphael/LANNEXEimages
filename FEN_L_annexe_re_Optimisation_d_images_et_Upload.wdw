@@ -10,12 +10,12 @@ info :
 window :
  name : FEN_L_annexe_re_Optimisation_d_images_et_Upload
  identifier : 0x2efc0ea100767ee4
- internal_properties : BQAAAAUAAAAn7WXXAsnVXhIYf8fGRh5QhdgBLI3SyuQtUEShts748UkVPk5g5siXVnznRaVo1OAU0o7gH7cqOnunZWiqL7bxIbtL8cv+f0WFLEgBZkFTt7QfTrz3eU/7DYjtRltcnr5aIc4BT3qTRkMNb5+tzE/x3EuAO2dc35MzzHNLFxKeQNgquw9F2hgcuxGkN6cCOsfSp26Fnf+5QFuGYc7mknoDKeKE+eSzhwTfL5lMZWwP0IPgIxDMQvA1goKh8gXdEI6asPpxrKJP5zSyBC1sQL8tNb0NTV6xKRG9IPT9a9sN62K3yUXX7lb92ix3iqnaMq61/5dYqK2x6BZNiezvZgefbNTYEBVngx8eZNzitv5zuEBDDpGKUfa/ajGn4/6XC1voXnNNypHpztYSUbrZ9uM4cMXAlN2siJ1/Ao4jPiZYuRABufZA+DcQHbU6ezdSZa14qy4vAbLW3eNVz5AkV3FGqxGbMd3zjycarDZT/nKbV8O7IHZvA5pUvcVo2M1q6HX5YEFNDKMbofv84sXBCIlCZOgewDHu6EAhSS+lV6TdmlptkksubotUnkJDNm2yG/8nETuUvP+2QuUBO0j/AKx3X+IJ/BADP3NWa6Ua2LQj5iwNqPx18MXwpbNROTckMJWsX0cB7qkmVTQEuMuAwQoLKvFzvXzV4rMiRp8SJ2n27CoeXxCgln5nugkhqsM4bcz7PrI63iGmIzup8cwncv7UuIYys50tap+D+chBj/zdC0vIBA==
+ internal_properties : BQAAAAUAAADnLSUXQokVHtLYP4cGBt4QxZhB7E0SiiRtkIThdg44MQlV/o6gpghXFjynBeUolKBUks6g3/fqervnpahqb/Yx4fsLMQu+vwVF7AjBpgETd/Tfjny3uQ87Tcgthhuc3v4aYY5BjzrTUvsNR1/1zM/J7ItIkx+0p5uzVEPTlxpGAEASK/+1SqiccyH8R09iil/Sxyb9RcehGOtecdZ2isLjITpEaSSzdxTHr/Eszbw/GMMQ2+jkKvjtMgpBuqU1iF5SyFrxDHKvB7zS3J3EwN8lFf31BWbJcUkNmBQl2zNFa8qfebW3bta9EkyPmsFKwpaV33+QkFU5YJbF+STfru9PpHx40PVX0w+m9DTiDt5jcNDjhnkCCd5XWk273zpL70c8Yt/xFk21aur+pWbFOhfklOn86InohEkTfgJ/mkq8FfRlFersFAMMMWG+x0NWeTmc/4qjrc4imbdhwyxAq0WiD7VnBQmf65Ou2PpfyoafY4dPrNqb33bA8RE85Jle/IHtFK0xKE8HXX/oNvEtLO2eOCwqFG26dKyldTPh0zhB9h6hrq+6mrfAwt7HEvkWXzu7dUeYqMtyDrndfxS71EAT42Zl0LxPey8K99namPRjpmzN6Dw1MAWwZfMReXfk8NVsnwfBLmnmlXTE+ItAAUrLarGz/TwVInPihl9SZym2LOpeH9DgVj6n+slhaoN4rYw7/vJ6nmHm4/vpsQxnMr4UeMbyc93tKt/DuQgBTzwdy4uIRA==
  controls :
   -
     name : EI_SansNom1
     identifier : 0x2efc0ee300a37ea1
-    internal_properties : BQAAAAUAAAC2IQKIT/mvW3pwOyezpEvjPQcb6Ltz27b5LQNiS6caW0k5B7DEmeU/us/1EZ2bqAcyYkc2NOuAQ0WB2nKZbgytH1hBNUPWON0jz1APOjZLQ0bYm1yWF1KVWvdhEDGcZYHVlyn6M2pqSG3+hoEuZZEG8fWfQoXu0LNJ1tEabtdxg3sdjAangRkgc/EfwSq9mKd7ivgPa0XFUs5Oho0uCQw8QURUG1ptFN4fQ5zwZSmC1QDgkPU+XPv5LAnxtYwzpZBuOB5P8f+NPZd5zfgsU/ffEKCtcywXPmGHMRrUSWmRi1xtFq2IlPByJTJrVLXG1tKZgC0oY/Nu9vghmRQbQcfQHf6CVMl5Kha+xPP1EZjYqm+ddP14bLywDdbt//H7fPbsQFbmR20AHi6STBcmfDwK+S25BxqIP5LQ9FZfzQfpsoKhxFltqcolzHgAp5HL0c9u26a3dQ/D4cMURjW9mBzfSfzAr26vPBZJHblvo0vUUm6XTtn0nyy98LpTVk5OMKbHDuB7xJLn/kogRrWECFDIuM+nmeQ8/paJXBXoC0vzrf5yvDpiWhhC5h/jnUHfe+UuUrlK
+    internal_properties : BQAAAAUAAAA2oYIIz3kv2/rwu6czJMtjvYebaDvzWzZ5rYPiyyea28m5hzBEGWW/Ok91kR0bKIey4se2tGsAw8UBWvIZ7owtn9jBtcNWaL2jzzDvunZrg2Z4e/x2tzL1WjfB8LHchUG19wmaE4qKaC3+5uHu5XEGkZV/4mUOcJMJVvF6rlfRgxs9LOaH4flAM7H/oer9uGfbalivSyUlMs5Opq1uCew8YWT0+/pNND6fg3wQZSnilaAAsNWe/BtZbAmR1UyzBdAO2H5vEd/t3Zd5bdgsE5ffMMDNUwy3XgGHccoEmXkhO2xdBt04JIBCFQJbRIUWpgIpcN0YU0O+hmixSYTrkZfAba4yxDlJ+iauVCPlYWjoWr/NJG3ofMyA/abd70GLDCY8cAZWt30Q7h5iPAc2DMy6iR2pN8pYD+IAhAbPXZd5IhIR9Eldudr1PMgwV6GbIb9+y5Znpd+TMbPkNiWNqGxP2WzwH16/TGY57WlfM8tU0u4Xzll0H6w9cDrT1s7OsCZHjmD7RBJnfsqgxjUEiNBIOE8nGWS8fhYJ3JVoi8tzLX7yPLri2pjCZp9jHcFf+2Wu0jnK
     type : 124
     code_elements :
      type_code : 149
@@ -99,7 +99,11 @@ window :
         internal_properties : BQAAAAUAAAC4Hla4pMk4H3xgLv9h9z0JTSpsZG3K0aMpSomymycX8aCMvzODxYrYhbg23Cgw796aobDO8u9foME/4BKnsbTp2ZiW95gCxMYqmS0g5zJ9cIjmpH0SEeiFoSjcACTFW0Wn9hBSgAm2sF/7P26TLYh9juB7457sk3m+x/tfo1g6jJzyN+vfOQOK797b1+P0VWTxW3rZ0YBU+uXCE6Mpig==
         code_elements :
          type_code : 26
-         p_codes : []
+         p_codes :
+          -
+            code : |1+
+             info("Bientôt disponible, en cour de développement")
+            type : 32
      code_elements :
       type_code : 26
       p_codes : []
@@ -146,6 +150,7 @@ window :
       	cas 2
       		imageCré()
       		fondCré(16777215)
+      		
       	cas 3
       		nCouleur est un entier
       		SI SelectCouleur(nCouleur) ALORS
@@ -154,8 +159,7 @@ window :
       			fondCré(nCouleur)
       		FIN
       		
-      		
-      		
+      	
       		
       	AUTRE CAS
       		info("Erreur du sélecteur de création d'image")
@@ -191,6 +195,8 @@ window :
       	EI_SansNom1 = MonImage
       	
       	fin
+      	
+      	
      type : 458752
    -
      name : importeImage
@@ -259,6 +265,12 @@ window :
       // Indiquez ici un exemple d'utilisation.
       //
       procédure sauvegardeWEB()
+      sRepertoireAppli est une chaine = fRepEnCours()
+      sRepertoireImages est une chaine = sRepertoireAppli + "\Images\"
+      
+      fRepCrée(sRepertoireImages)
+      
+      
       MonImage est une Image
       MonImage = EI_SansNom1
       
@@ -268,10 +280,11 @@ window :
       si sNomImage <> "@" ALORS
       	bResultat est un booléen
       	// Sauvegarde l'image
-      	bResultat = dSauveImageJPEG(MonImage, sNomImage+".JPG", 30)
+      	bResultat = dSauveImageJPEG(MonImage,sRepertoireImages + sNomImage+".JPG", 30)
+      	
       	
       	SI bResultat ALORS
-      		Info("Image Sauvegardée")
+      		Info("Image Sauvegardée",sRepertoireImages)
       	SINON
       		Erreur(ErreurInfo())
       	FIN
@@ -308,7 +321,7 @@ window :
       
       maRequette.URL="https://lannexe.re/wp-json/wp/v2/media/"
       maRequette.Méthode=httpPost
-      maRequette.Entête
+      maRequette.Entête["API-Authorization"] = "Oo1819416497dsds489494hee3u" //exemple entete
      type : 458752
   procedure_templates : []
   property_templates : []
