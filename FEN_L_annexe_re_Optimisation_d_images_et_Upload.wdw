@@ -286,7 +286,7 @@ window :
      name : UploadImage
      procedure_id : 2232810358815458495
      type_code : 14
-     code : |1+
+     code : |1-
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
       // UploadImage ()
@@ -301,6 +301,14 @@ window :
       //
       procédure UploadImage()
       
+      // Upload media avec API REST
+      
+      maRequette est une httpRequête
+      maRéponse est une httpRéponse
+      
+      maRequette.URL="https://lannexe.re/wp-json/wp/v2/media/"
+      maRequette.Méthode=httpPost
+      maRequette.Entête
      type : 458752
   procedure_templates : []
   property_templates : []
