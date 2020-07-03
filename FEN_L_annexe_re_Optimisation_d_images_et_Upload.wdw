@@ -10,7 +10,7 @@ info :
 window :
  name : FEN_L_annexe_re_Optimisation_d_images_et_Upload
  identifier : 0x2efc0ea100767ee4
- internal_properties : BQAAAAUAAADnLSUXQokVHtLYP4cGBt4QxZhB7E0SiiRtkIThdg44MQlV/o6gpghXFjynBeUolKBUks6g3/fqervnpahqb/Yx4fsLMQu+vwVF7AjBpgETd/Tfjny3uQ87Tcgthhuc3v4aYY5BjzrTUvsNR1/1zM/J7ItIkx+0p5uzVEPTlxpGAEASK/+1SqiccyH8R09iil/Sxyb9RcehGOtecdZ2isLjITpEaSSzdxTHr/Eszbw/GMMQ2+jkKvjtMgpBuqU1iF5SyFrxDHKvB7zS3J3EwN8lFf31BWbJcUkNmBQl2zNFa8qfebW3bta9EkyPmsFKwpaV33+QkFU5YJbF+STfru9PpHx40PVX0w+m9DTiDt5jcNDjhnkCCd5XWk273zpL70c8Yt/xFk21aur+pWbFOhfklOn86InohEkTfgJ/mkq8FfRlFersFAMMMWG+x0NWeTmc/4qjrc4imbdhwyxAq0WiD7VnBQmf65Ou2PpfyoafY4dPrNqb33bA8RE85Jle/IHtFK0xKE8HXX/oNvEtLO2eOCwqFG26dKyldTPh0zhB9h6hrq+6mrfAwt7HEvkWXzu7dUeYqMtyDrndfxS71EAT42Zl0LxPey8K99namPRjpmzN6Dw1MAWwZfMReXfk8NVsnwfBLmnmlXTE+ItAAUrLarGz/TwVInPihl9SZym2LOpeH9DgVj6n+slhaoN4rYw7/vJ6nmHm4/vpsQxnMr4UeMbyc93tKt/DuQgBTzwdy4uIRA==
+ internal_properties : BQAAAAUAAAAxDXIby3RosDl35dHUFjAVoum+IJC/yDtLDQAE+A5fk3AW4VjW9YfIkaBZ+r8dT3vmDbdA6Tu9ufTry/+CKHkMmEW8NakWpj/FCxnxfFD2omfbtex7EBnwrycPaJC5bPdWRSjUjHdzorLTykK3iH88fMfsPzSB6hlBY3DFGe7Ph84JQCFp5T8hXr2hWiB88q0YE2IS6ycswSP9dukJAaM/maMYCKARO9IMTB2B+p283Zn8SYrzLU7JwDsAeI5IL2QbjE6BfEZ2I3lBp8UGjRtzkqJ1mkmDlpFz9LktGd72xrTbRbOanthmgRfH5wYScGns9ThIxAOiDBWcff7GC+5cCLsneN+SHmjL/CWUV9ewyU3X+tg7wqyk+BHjfMacQR4LkjG4knA4gQhwF03VXam52ZnUOXmhDxS7AMwG3tOkfgAKjGMnhKfW4vzXUfL3g+hkyN7GthFX7uUZCzatH52K0hTe5biN6ipeV2mPQQ8/I+A1reTPAtmHbdIlQij8o+N5wSiLkX3d2SI145W80OrKurkVHiSkDoioCq6dzmzegkBI8UHVdn+qs4lUVEiELM8l2sQU4ys2UO5cuDgqujm5b6npiEesQs647eGBBrVve6k1+CL+K5/8LnaMWFbxAP6m6r3WsMgKkurI5A47zfKmaALJamxOzVZpt+4mmjAKsVH9m/m4Hdr1Z7rJqafB8viL6YH/WMaN4+EvxE31u/GO3Gz8NVP9f80DbfPKEN/nCgwY
  controls :
   -
     name : EI_SansNom1
@@ -101,8 +101,9 @@ window :
          type_code : 26
          p_codes :
           -
-            code : |1+
-             info("Bientôt disponible, en cour de développement")
+            code : |1-
+             //info("Bientôt disponible, en cour de développement")
+             UploadImage()
             type : 32
      code_elements :
       type_code : 26
@@ -319,9 +320,13 @@ window :
       maRequette est une httpRequête
       maRéponse est une httpRéponse
       
-      maRequette.URL="https://lannexe.re/wp-json/wp/v2/media/"
-      maRequette.Méthode=httpPost
-      maRequette.Entête["API-Authorization"] = "Oo1819416497dsds489494hee3u" //exemple entete
+      maRequette.URL="https://le-grand-duc.fr/wp-json/wp/v2/media/"
+      maRequette.Méthode=httpGet
+      maRequette.Entête["Authorization"] = "Bearer qIGIj5VCvztZ1DXCrixnMsyy3AiLFxLB" //exemple entete
+      
+      maRéponse = HTTPEnvoie(maRequette)
+      
+      info(maRéponse.CodeEtat,maRéponse.Contenu)
      type : 458752
   procedure_templates : []
   property_templates : []
