@@ -1,0 +1,204 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Prévisualiser
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Prévisualiser
+ identifier : 0x2f02c9ae018423e0
+ internal_properties : BQAAAAUAAACYK/4Ndn9C0iIrpTBSvRwuNlXMwhFAicNFxfrPb9byGTd5uhFHDdNZHtj7ITIXi1d+2jEpXX2bS8IifltyQFip5h55ruacEhAeRVCeVP2B27DU6NlkpKkrFaXMTmqyZRTnPeN11F/29I2EiCEiI4fYwvmxng/TF/ra8NfS/TMDOatnMf6utS1SFnBBdhcMRWn4zEfskER3iQpzzti5lTLQVGbp6cd7754B3kOXNO57Km+VHvIikG/G05zuYoN8qdIGB8QT+9sOPkL9e7Mkdqga1+AR/slOYHDyaSat99TdNg8eQOlF5T2nKpe1GYVg9PoJZQF9Pg2ZC9k/U+rm9+f+SxbVWYz6hoIoLGmiYOIEFwcolTqiRR68neTpeOWlkkX9CTaYt+orZQ/Lu8heAK5QjrpQmp/6AkzVj+4DpbZSg2j61QbzSa38n7VqTPhGZJtSYDgLuVohsqcTypGGJrQ3Ctj/y0MRB8IQBigyk2sD7mNhZZmjviJN62l1q2aa9Q/E15wEgYznwpPir+1VpS+akICKQV6pXdouEA/a3aLyc/J0fbDl0LipbZXx0s3PAu00P9u5Ilxi5eV6KOsZc/M+jxPCYAEnqsU0FJz5PPtCYNxgNT3cc95pe7v8QD/T52QAQRMv1J4H4xdaX/Kp2U7Hn9+wjeZLJoUuxuqCjQpTOrVBdSVnyizfWikyGjFSHq8GwdWnmN2KmxYAmMeuRhx9xMRhmtJzTl6HlwLqNcnozdGXlJUsF94DYI1CzLlh+SFx90fnDHUPMUke+DQJk+0=
+ controls :
+  -
+    name : IMG_visu
+    identifier : 0x2f02c9d40194b831
+    internal_properties : BQAAAAUAAADvrDKGTb02BeKkS+7je2RCI1q8pncpNKEHzM6KHKpPy9IafrsTzhPTwDR3b7ldpeVNuH+Ov5k1wu4v3Wt8803zXlCIwfpXFEaYKZGlOTBqbfRnZssqKOLTEfrp6ibJTOaAeL+saQkZc61yZ7nyhhnZhBZ35yCjW1dRUVc2LNg2OFYlqa6u7y9qwViDwOIP+1ru1vLoK8ovgNfc40MqaYeGaNb8jIKyDlY0YfCb3FDpT12HZouyeADGMijteiJcMSRFJoEfa8bFvTj1Ytdlv5Xd8t+qkddtoakV3lEfJGcwAS2/+4rWIb9sNu8qzlumsoE6UY2ZNaedta4eXA9TYyczCdWc5QruqLkWme7PkXJ9yZALy2r057ON10g3yiBT/gDCsBXv1gbyGGIdmBOfwfwNGD+V1TcNevk2t3BtQstUESAuV7uO/Kglj2S+WiAkVMjrv+T91FaOJNcdkrugwmkQ3yfB1YNDzT7x88+ggJg8MybZee4WJgmonbYnkgf2r7MCfYAXpnhZdKLcQtEZF5vzriJ6jwMJeUbFKlNg4DKRVxwHH2HzMf5kL6a3W9rOSLTgve5N4zWvBIrkFW7YCKo9+mUHZpwCuzWusW2HS3KzzMhjgUzM2Tmp4cjGOX/FiAs12JEaw8MRwx/PTpwmDX5beOR7S0aSC944FXDXZ4YFuoKB0dNbmsgjr4Q0gDssBy+mh2sQTQ1+7j75Ss0TU6vCURB7/fFh+FhO4bES60bZo9L0s9giXBC9Tqu6/emrp7+UPGQHzzADTMmTzJ2RK0coMdEcWbxzKF7oVKAV5CKb6ZP/bwgPqo6tRFy5tl1KTJpASlWGEZ6DSUozHkildxBlA1sz4DvuJWVESYEr8Z4IbMHF4pU=
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_Valider
+    identifier : 0x2f02cb8e02d07980
+    internal_properties : BQAAAAUAAABd3LUd+fPJBn0BfQVNbksMkjZ/tH/DumTbLu0qfEIbdw4YLQOzSs8QvyUrbyJn2ybEPJein3mSJ5zJ9BnmckJ/uPpKAkhDkYN8Shk0Yfp2OiNsIPq6r1R0V0DyqP6Flw8OBvp4xYcXtV+S3tw4/VQr8y1aqObpmuXfbezunvVlmNa1lFqdF8NOoLxt07AxU1YN/0pJXAFylgXFZm5x31BrbTnvsO40euLpkxuBavnzQFXGZds9d+yKN5p/b5cf3kX8zl2gupwk7kieGYJxrNi7NDe61puGuqZAccdJMoPwshQoof8DFaUWpeEUIv1JFKwBEM5LDRSclPTYwwu6Ek89Vbl/TKUhjm1fpSzbdFj1V7b/bY0s72WCYih94zVTx9xuSJT9b1ShaR88nbJzwiOdpASVXfxeNs7peZ988hCAvE7pfwr5MD9AlY/8EjowxH16RJtIjsHaNrXYmvQh+VQE92pR09gHjYzfjqeotarEIe1FbFZOthI7MMjRxY6GlG4U/Xmf/JxOtdEMtv8kWC68+hL159fxz3DboRiYXpE1GuK2mB8OP4drua2FWW+XiCDPYYh3G06kq3Myd8O8OdG6jhSvkhVfz/q+GOf8JZ1isnn7Ag+wzQDGyyJC7JM0tNoJUhjbhKsjjlqQ6PNuw6ROoUg8E5rJ2uPvXqRghKck/zyfyPL1gbSWNiFgrnzZOoJ5vTYNAdFKVZBq9+Zvo+SANbF/C3T6fEeF9KnYWOJE1OkwpUWSeh/kkiOyYB4SXqADYr7NlCPzJ1BMBca7sCkb9GZVAJXP4LcJs08icSadad/ikZ+GzKLLyqfawDdBJByThKRcdIuzCwNIcFUfqvbmGwT9/CHbaEcM2vUxQj/9XQtE2cNtVporZoeb3LSOwaykNSWakXNe7r1zpr+bBnORRUumnsEd4Trn69vg5bvaH7I0Rl2AowO6YhPfo1HZskLX
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton en validation
+         
+        type : 14
+      -
+        code : |1+
+         FTPUpload(SAI_Chemin)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Supprimer
+    identifier : 0x2f02cb9502d99209
+    internal_properties : BQAAAAUAAAD8FF/be6LKFs9rl+zIwQv/IYmHUyEwN48x/6tjTxgGDPTYEtQypZ84teBQVgdevVzoOGEXjmw+dz4B1pD6ZXwmQy+hnt2cELABaidnqiIz2SB8r/Soi5NwU/IrVN8UcjgTVNkLJrbX0L+q/Ip7dBuq36PCYRvqpQnGF1SkCg7kiVE0NIEOeCG2lTOU38dnwpv1bLHocc2IN3cVeDHg+y1tRldfw8wZg/vabw7yHBmGkZXP4GXvzVv5R8bfFGSabmCO2sKFJ/6lqLFROAzIhZ7ByDavNqqTOlwZx0B7JLRvkqWDrAq/AULwM7hrD0XcT68Ie2E/BgX54tjKnj99iCjaFqxh6auyx+SsJuuC1CBDhbreosgt5nHlwa6qWGDeIXV72U2Btm806KwFImoFN3srv69rnsG0ejArHSJszZWEbiBJrAH9uN/jLJ06u4UnB/lc5DBzQePYH8yya6KmlYvdkhbu71takA1htehXe4gqBI4rsT0ZJjkHEyywJ88p4U2VrqXkSMpZwBfZ00cvs/Y6HhprYc7cM8WY5T5PcptSSV/6Rxx6Zyy6mOtG5Tn1NSukYc26lXmNlfVdNqJybh8t1fR8Emj6EYG6OKiJWUKxGJCLISvfj7vDHEF/AKX6sy3OC+DXTymvdvOGL+KYof3b95sgybHkfsAWDK46Lg574lY/3hHnCnYHVOj7C3f+lGLE7BYvOSOzHth6/JqLtNRhuza1kOpOC1jAVML/jXAVW3GrBdn6Sv8XEZ6bygjM9LRYJQSxA9+lHwUOGS5OoeOod65XjrHdXhcvj2mnZu7z+rhcwNaimu5ECWyDrL40FoR8eQww0nb2cFWROqPPTG2O2QiSHMmsCYUntUYgFELhu4qllavmsQ8mqzE7qL+01HcDOoA3eot5/5+H4upekm9pzU0ACn8QfeZnTyC7
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton au style Supprimer
+         
+         
+        type : 14
+      -
+        type : 161
+        enabled : false
+  -
+    name : SAI_Chemin
+    identifier : 0x2f02cba402f0cd5d
+    internal_properties : BQAAAAUAAABGYTKmZS5UHqyYOihE/ilmjLvlaM/NeSo6KzEUPKE2x3C7Z9/+f3xxrXKoL6rWoqqn4WhE4xK+Y4y6EX0w2MX+98ScBu9XuxAhlzVRXN6o5mtHsBx8kU7x6B6AdYQVVkBFBQ+oyD0Z5AujEbq44pMn23dvyWlEQ/MIRyO4Wp2q/CAUfo1TvxuMrNhJdliELJf1dGVNO5xoV0F8JSlMvBCbiWuSxxgS1/M/OJlLYPwhCL6suGhsyL8qdVVaY3j5RuxwPgQDRvPJHOIZXNuPi7e3EblCJd6UfHHSFEfFQ2baQhUaNOx6IlBVl5jgy0lLcSQeQF4mr+DVxMgQoBgwHoEOsbjYWB6/r2P4HiD3DzEcWie0P5ZuV2xzKdrDL5b0CKUE1JNJFLzebKZuVJR600Iup7qVPmExV9jqtY6niOK+lPonmIeQRq/AI6nApUmUx9nd43D2MIeuQaNHRoC0mkXp68FJ5gFw7fG9JsUIxo5FadYsV+y5rMSGcPYOP9iYCyBKQIJ1s59qoiT9pgFygulEHejOFfXluqIYyttoU7I3YLhE2aM0aqn5HxjCo4OqXGpjtW4V8GhqSCwBIRATbUWTrlbkuZyJLqx21GZNIXA6R4GvAkbFVHFrx9ie/MJGfjegquOv6Qs9siv7giCym2IDTGGek74+k0eQU59wqXCwpGSJoiBihofYuhAhHba3f+2z5rVvJxmYDnlejm/nTXHNlFRuemMBxAJV5YobHWGGDg2sg3tzmIgAmpvrhVyKwfFev7OwWFgqGzSiq5BwhZHmLo/eztEf4zP1lLx0ThIHJj2QEnSqFYulY/0uI6f5yCdEJenqHMWouYjiMyMEbSY54f6uSpmc92HbEzg7HZjchOzfJQSqgJMuIjX0Hp9ZAPU01Yh8fy5+MtEkj4tWnXaSiC31pP5D3VGNDh9h7f2szvBwFIpgdDLsnGevWelPkjNMrr0YKyO3ggjdPhtFrYGDGUItBhpZRcUOFZqPlsHQI9LSLLCf4V4wIXjLUIG9VU9VS6dhTyPjdxuOL+E/2qfu+UlNXN5ZjzHRXUTUXULuLggdBM/7Rf5LRp3e4iccq6t2nt705QNNdDf1plZ9YiyIrGISTaYijnLgoenjXq0x7ZZH4/LzmJYtblkpQFvyA7pN1Q==
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAABd4biPtdLQOwfUFiqrit8H4xfGqKyz9t6VLxCUnNZRQiLPVs82PZNE+UVdKRzjizyeuKyRur85gNMUfqplpmtNDnQWQla9zo+GH9+1EfUJ6w17Dn/egD/gv+Hhywk8c9unIdzEp7EHgaAqD28w7Agveg4u19PBcKGZtQ==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+  controls :
+   -
+     name : CBM_SansNom
+     identifier : 0x2f03154504d56b2f
+     internal_properties : BQAAAAUAAAAJcnBfpv7sewaL0IzmX/4MihSFG8Py928/xnQ+9WaaDHrIe/T+4nOBz9rETbaOBTiyj7u4e90H2DIrYQPFFseQr/INvyu2IOE=
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre(gsCheminImage est une chaine)
+   -
+     code : |1+
+      IMG_visu = gsCheminImage
+      SAI_Chemin = gsCheminImage
+     type : 34
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : UploadFTP
+     procedure_id : 2234573520203956358
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // UploadFTP ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure UploadFTP()
+      //Lecture du fichier INI avec les identifiants FTP
+      sFichierINI est une chaine = fRepEnCours() + "\PARAM.INI"
+      
+      si INILit("LANNEXEFTP", "AUTH", "", sFichierINI) <> "" ALORS
+      	info("LECTURE OK")
+      	
+      sinon
+      	info("LECTURE PAS OK")
+      	si	INIEcrit("LANNEXEFTP", "AUTH", "valeur de test", sFichierINI) ALORS
+      		info("Ecriture OK")
+      	sinon
+      		Erreur(ErreurInfo())
+      	FIN
+      FIN
+     type : 458752
+   -
+     name : Jauge_Transfert
+     procedure_id : 2234654128161660393
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] Jauge_Transfert (<nCourant>, <nTotal>)
+      //
+      // Paramètres :
+      // 	nCourant : <indiquez ici le rôle de nCourant>
+      // 	nTotal : <indiquez ici le rôle de nTotal>
+      // Valeur de retour :
+      // 	booléen : // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      PROCÉDURE Jauge_Transfert(nCourant, nTotal)
+      Message("Transfert en cours...")
+      Jauge(nCourant, nTotal)
+      
+      // Est-ce que le transfert est fini ?
+      SI nCourant = nTotal ALORS
+      	Message("Transfert Terminé")
+      	Info("Transfert terminé","Vous allez être rediriger vers la page d'importation Wordpress")
+      	LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      	Ferme(FEN_Prévisualiser)
+      	
+      FIN
+      RENVOYER Vrai
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1f02c9a700050953
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,240 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Paramètres_de_connection_au_serveur_FTP
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Paramètres_de_connection_au_serveur_FTP
+ identifier : 0x2f0304da047448ba
+ internal_properties : BQAAAAUAAACBPdd1tulp/5pU3KGp1n9a9DSG79Q0xhib1EIXl5neSm7Ya4p4q4CLJ4KCgorzmruIshvl9RZUewZbNJdd4xOmIVJ+7dSXGjxfhAKfMb4IYwVcXpDnIVE8u1ywFBSOn5Vy9buiC4wak4UCJhBVmOTej0Sks5hDIILyzCTILbKGZQqxClbIB5Qvo8QbPpoNXpB8/AfJ0RtP0EWsUq54djBNJXiq3Qo68/g06oPPUfJyh3sgQhllx+1b2E5NUaY9lQG9YIApStXJPnD6KGMsu2YL3SkG+bbK+a7hOlnmmXdQBMw8GZazRLEhoNEnE169I7PbRp1OOniIQYL5an3D8p17bhT6qPkLJ/IVNJh9hhocyyYXEggY9CGKE4ercAxG+LAhtSlho0AZiNqHF4hBT4k+rGVU7zEf/cBw5T6fZB3b/6RJFXSED38b3wiPDXIvVy2E69npu1FCjUfZ7EWgeaNd4NP/538wpKBL91r9I1mOumLINPlzE3x+O4ScbADqbo4WstIrfDDHx903sieSW0dTgCIsro5a6gSSBaLcJVLE/EGg2yQUbR6rj8Ik60Bugtnjq/+YOErvmZXR4KV0BzWVtzH7je8WUX+8tWGpzZN7p91105M6qELZz/43XVp271ur2koc0pYN+qTCJyZCvr6e8wFTqSNQWmD2La+C2i0hQqyC30Ld8mEZb+++NFS+dXnlu847NT2MGcKo4iekuKQvagzp7SLbCB8jgFtE
+ controls :
+  -
+    name : SAI_adresse
+    identifier : 0x2f03050f047718ac
+    internal_properties : BQAAAAUAAACjRJvsLK5OY/9G8XwfmQk+bRErWwZalkmWVTvn1uUaUzsGStFu0qDoqaXbDXwIVlwcJRfklFqJHdCVISwNXwy+Yau/S7VcFMisbAiCLXZIm6O8cnQbWM8eh6AtB1hrSTeu4pPEv6eHQsrzktGb7TlqHytAb6G+BCkiATym1assk6doefia2v9zVspzTUdkzZ7jtweb4RLxkMOJxFFEE8BYOv2+blnrzPNHmi/D/5O6/cnj2cSU3OVGX9by3Es6W8t3puNFCNQCFmlmUoFPE7IZywROU05D3DFWRBcv5xxafJ1IyYxq/r/j0RocMbpp3L9XkHJpGR72zRCuV/6PbIoEpbHAPXRhJ7lvChQ3N65auzIO4TpwF+sPaXM33VbeV4/dOjwIUPY2oJVVlyPxwJUtGisSb+mdNmCnPN0xIbthF00V/d53ZeS8VrwmpiTEC9K5OhI0fOgBEpzl3U754vKOZ5pfB30Cd8mmhyrjxalO0LmKhUwSEBAITcOEvPC5ExQWqfDHvOLltGJy69WMj7wPpN0eZNULhAOwoqybx7kyugIpCv+6Zz3JZc+AS+s3onU8/pdKtCioPznU5d/jwIvbxDQf341UMwpaKmUrvIADjL99j/aOn9z1ncW638g1fu3yqo1VWwvVoH2Q6SS1SWn+8xZb34JfHEmQJvp4FwOAJhpk5mD+SeczJmlmlwGpaq7BS0kluBopH3RHmw9dChcIwnOJCaW20SZfQjMp/2NeUFueaWvxT7+LWMc+mffjToqztxLsxwZLnl7UCaQP41gKjaattVl52Roq8cLcXH21+BI/sEDvfst4Hm/FW/KbgWbqzvmRLmun46HRlUYJjRe8yUZTEgGLLVgTVkaZBtDhp66iVPNQDrTV6z/7V0O+3zDgvl6+OIBKUzk+xwg4o5ji/M6sC2re1DsNwXHUIzT5mzj+bfJ5Dx3W6hscz1bfIwqZcBHntwPFa+6lFCjz3bq8HST3C3bxZ0FCb9W5T/337lR2hwbaKiMshf6yT0U8hUl1vx7trQ+/MFzVhMJTcqOzFgBwFmydACqj00CfLzqEWG3SWaCghFW8o034pGPgbrJxQUgvNNCut1XIziVBnSM7dHR+fUgcncujQngKNt1umLz6GChdv7tHT92oMv5aILan
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_Utilisateur
+    identifier : 0x2f030535047dadd8
+    internal_properties : BQAAAAUAAACqnQrmEq4hHF4DL8Qd/yEcTJDGqsewvDF4Q/Ed2wbgi38wXm91T8IhUllyVhfqw+lnIpmX7oxY9H2wH7WHYZ+Ph75+WKuL2zQwVTX/eBipHcATaYKg9zWW1vcirGWj1n6KtmCbDBJEJPawHTW1nbdRUVpJonkV/Dc3xiPsGElEXn6gIzNQxGjRN2NL2/hCIFFYT2nR2TpB0jZVw04GJHuZjqLrLlUXbX++8Z6CMSMe1eNYxsjZHRYHpgmwLQJtMNbO7Fij5Xv31ubkozCKxHheOsYfJK55S3u/5OXJZOXJwKdW5uEd0B2IOm4ggHRFVvJj5qbQii9w5WppyMk7h0wt39NAqy95Znsn3ncOD3QxytTbAtTpGQ40JCMLi82RmmvURuB5KZm3zhymIFI9kaWK3Tu5mR/9G3X2dWTZUp5AReXwlxN88KIfup82v2+3x8Dq9jCvjMlCnRZdPqw7VoUpsvLGT7Cv6T7p+5/6UvHhkzhxWYswk42IOe0agZOJmBCoz2W0+Y/lrpG04k0g+L9fRIcr5JJtw7oFosoVHozIBrUmKd//Cx+PYpHUAejVU+TXHdlXRHjVfaxR917ha8JcX7eXOm30mtoXY5FAKJV4I0CYfSeqe+0VmPKa3F6mCwz9kZE4k+M0phb3Mz059IiXpoXr+kLfVz2TqUSL4yhBnfNL1O1m0fa5p9BkEgkIUaP4BO8oNiS0I0uGy/j1SeqJda6JrOEy/vxwL7lcT9QTt8AHdyaRn1b5N6D00LP+EYfacvwFx1ZKtE952zsbFhO/dIddqpt/hiAXwIpnpqKygz+OcNO5FMRKGcg9Mh6uwDd7G1eivqu2wx5c87fZfMrBKhv/G8Vf/oIOUdLk6J0GUuV9VGj2UF9H1nwXcjcL/MMpWx7RrlrDo04nj9d+Dktbc4GGjiJGk3mMNHHFTflOek/L1+tHGRJaRYAKWnicmN0SMTmgf/uEY4ksBi9J1n9X6GGvcuaxQNEp4NMqSRTyA1Fxt4H6Shh4yuEmohWrsF4y8Bbe5rF+yAuirn3nLaq0Yc/kEV5TwyrjSW+V7B0gVgRxI5BTj2cnyJPOsK3k8xsCnDloVbsP04mDBQN5qprEmK/5DgNDqnF1NtEeZWYPr//EkcHrLJp/SKA=
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_password
+    identifier : 0x2f030537047fb53b
+    internal_properties : BQAAAAUAAACVDc10yBL6dxPOXbsrTcQEL897wK2N4B0hGvKpomDfCGpANAXsmPgWgBCDWR94LjohrsZVqeuKFzh5UYnZSswrWAf2fQObfYASDiNWO+6iP53j3b3CiUtU5G3wEVkRk9ObjCzW44GBZ3i8WiMoMqzamxQW0/10PfnDrV/UtGsFDKwkM7RgA6yQfz9PQp5p8jazv3wnaOO0Ali0ihyyxT2VzHRtj+WyLKBoO06mNryqibTSKfAnugDS3Kay68PNhzetmIYV8RttmYsAFKCFSNVdCofbSyY+Y1JrqcLmbcaKpuXY+T1jvd1TeQLwSbTOXYm0ykmZh9kZAFvoLocSgKsxpKd657ShwMCEQqO5+0/EimpMSoRi96ahGybqsmZ/01soWuu1Jyd1ej8W3SEklho95b/9Py+It/DT6/ygCVRSEOmR9EHB0B7eJX54a4GvOm2/GPM7c92b6uJ8xeFT3c8Ocaw9ZRbRdbJOQLoFEgrC6Q+CR/fp9idBYA3xnJ7gAiuVvgzNqlO+xygrCiXvb+Ma8JOziBSKxOtqxGD069RgY8BBqMS4wN58cRRMPRyenKy5xREbAPIEeE3RQ0b8/FkGx9S0xbrrx/IfwvrbOss2BFB5e/R1U0UaHCzTPUD0dXDmjVhxZFfnTxs+9qO61RNmZKZQTOM8xOrmw1LEZfTsgD4k693ENz+GJPVlp0mFndNfc5WFmRY31UBiwto/CHUgfVVz7rbCJ7hGRHGO8L4YKyxoofaBLr6EXcy0K+labm87I73YaalRBrAmac0MQxzq8lkkVVjDylIigZN+8XRCOZ/VvWkh5fAcq//H0UQbW9JfPM6VJoai6IopNpdnN/ZivifMnd9klzEyLj5ff0T0AChHTskZWC9ZEjnQ8ozYv8/cEQ24ahxYydWUhiZdMlaAlDg5TkWQYpEUHsD3e7pD/ra9kWyEyaTadHGSaYgp0LqhwHE2LON1sxm4hjzpxgXi7LqdlyiSLvIczBlHwWmR52xugNGROtxHMGoNmn2Fj7AuhGrELbyJt+CE//g157mmSO1mBmrMbh7f3ymbUJFUl7tVEfAHNMs1guoAPI8ZEeQWc+57kytV2rAwFZzIanHSbMml7Udwtt6hAp2Gqo6BFe0FwLxd11baiKz46MsyiCyjco4=
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : SAI_port
+    identifier : 0x2f0305390481bda7
+    internal_properties : BQAAAAUAAAA3q/FSyrhEO5a6b48rW9qE+yZ8+TCyHC3AgeousnsF6wEXHSCbNtGCZnwlIdR0YeULlIjTXKF7uY+vdSwpvM98TrlZ9b+2cpYED3FHM5tOlbAy4kfdCXpsGH+r6mF97NkBWYrteR5xWJ0pXghg1EiJ4RSTAF7PmFEbPdv1VpnGHpKTjqrBfruCkaXTcjXZWPNCjYNqxDnOcFcmTZlnCrnN/UmHWoK+4BpRyTPIsMEzZOARX8Q9qsGgACXn1CnicCyH80SJaRdazNcewEgKCvMBPtZN0Nu9RxIUPV2qkOH5fovRmHUBAJi8gYLkGqVZ1vjZjJmnNvq++73IULz4xUfE4oRTZhlXKCLPRzzsNA4wKG+sf35mbBysG+ln0Q0o7/ikt2teE/oijmjq1tZi+G9nEIK5AfsblQNwaC+RT+Ld/k/Ng6CIrXWrdMYRXUtxsqnSUXrVm0neXErEGCmoO4HXOhFlPAKju0dccuDETmPd+RrRxvusVc6jHSqywFQG6/ZkdZFRmM9QfsJ6hJrj6WHZAD/x/yplRRUATyBA97hXo/+JkZ06ouRZHGCENUW2C15hCVWOhmG2jHw/W3zpbdspSaKEse5EKma2ILBHUqC9YSFafnOLNjhPPySRejDS8uiGR81ErKbKl10aJyAmJ6J7B8qtukCHFmB1HFkPi2M/z0MCFzuet4qfaAuLNRvnYJDR83O7aU63SGPUAOi6DYT9Hf3fQHF6N+e2wxhdUsa/xcKZg9xn5Qtj0JRN1KYlFE87n6G5kHGNWxspeKnuoe68IzV6r6Gvf/IMWKvfk4Iysz6X+//cxeC+Q1mEWkUx5+IUXQvN+YUTq3TbdBujw5zi6IZJX7d35W7YgztKzK2aOqdHI6ibIHLaPVfCT7MEGql5AAasQTKlUa0CCVLYbUViTW6Fc/GbVutKKBklgHrrp0WcnH8GCbRYZGqaN7QLko+DrgYlpK9ARJhN9lRr4JSwuNs3ATDt1I2nv9LvbKVq+NcOwQ72x0/aWzImh516Is4G5HhpfHZmRTOW6aTLnt9YSq9UVx46JgXL6SFYXEPV37Zgig3WF5A4rJ2/N8F7lXDKTz7gKEBgl0UPLo35PcQnI8y8iivK54+35oeHMNyDExPzxZly+GvZHz0SONsm/KDBECw=
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Valider
+    identifier : 0x2f03056c049a829d
+    internal_properties : BQAAAAUAAACkH8cloOzpYSvu4/NTtZYu+7b0Fx5J+9qsHJE2GWhrygcsapEpongUQxqr7Z3Bzg2w64J9OZAHYxDzXqPqx8RJaedFde+4o+FilyB+lVfHcKhirkNbo89icbAilyxxpgYugNebYd75ixpq31a67KWvPpqZP4VWqlOqP6rUrvhOzjthMREn7FABeaLIlxjmbT7ezVVMQo9lUEOjEsIVAx6yxD8MfHBamXFrYwcRZL9VLVoEWAla+497NbaykbDpD928l2IdcO2jrLnB44bbTP8yA3654XrDF2KCuZnLngMXVfM6dVKclSg5YLao5Py0OLBwS60DsVLuZCJ3JEYAAiLMaNkXzOeYBw4z21okYwrTjmSjuyN6+d+n6gEayFcrI1yQ14sfSytOiliyojEAQKm3yMDpvowQJ2fuX8NXS+udSrtUQ49Eut7p3j/XwU+44+XbZPDej4SGfWLp1V6tZMP2BSf7uoWLWbBoDKg0yCPgGAyUolaqvp4Yy9lzDyKd82KnvVkWwgA/H2Nv9ZePG7WS4Bgkkdp1wW8FOlwwqiyHYNu+tD2QqHqbfHRzOsbDYNqpVyUuN2kOaHuM2JID1ONV+fZsIFKMRipdemCdkXAt5sVOaaZhBgtijaebkm/hO3S+P03NCpyoNr4ISJh8p0yaFyD4k1FNASgP2f88KFDWCreLmje9HO9gkoKDFPeNrBM+9cqf60aoBbuP0k2jbxrLO7nBZh0QjntVZG/rhFTiadWELMGM3ZmJQwdvjvtz+i+BZ4DYj6t9MwfrbPaAvH3NG8v4hfHA4bsZup0LKTjmYf1UHvphamSS+iktbCsrSXE+684Tla/SMgYNriAh6ptb09mJsOTMH9lqvUqcxeLkev/Bo8wXI/efJjAf/ILt9lSaWuiNZT7escKpqk1chZVAO6Wl
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton en validation
+         
+        type : 14
+      -
+        code : |1+
+         ecritINI()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_TEST
+    identifier : 0x2f03058c04a90077
+    internal_properties : BQAAAAUAAAAqRuNAqAvMED07uUpxjNbdry55/XBh0LlJLd7SVrlblPhvgKBA2QuuEeOyZJGvLXyxKVQmTLj86nVAdjRAjMUmIMJKYModmKsysa4tKJ5I3xnzLPw+5NiwueHE0FA9Z8Yz8oXHu0S1ww7HqoaGA5WuZrvtXTAfmByTbO7HcGcNbwN+y532Xj0jpPkEDjshmKUk1ntlkno29vB59e5WKT+fUd9Febj/rop62S/9m0wiKQ6p3u+z4duQyUydoF8dVzhANVbeEycN7FYrNlzPIxxy2gXIWXTUEJJshnt3Y8uu+4b44KdpIHaz0UBaM+hLLVN1UQ0O6gVCeXShVYzrhgwcUnxbmIM6E/Lp3L6nC6dUq5dFw/2ClHWts0c/DOYD1SgvbuQoXnrYGJaOshMEK5yi1+XuKYTpMuvvk26cmLaRLBBHlo1vcZ5D2DMJFXmh3hbgooFfhNL+K9Rr5kG/WWL9W9DcvfsSqF1WqLjebukMUB5tGriEWPYfsJxUdwQhuSqgggDU6gOAZm9r6GsLHAefizM0hvy5r64jhQuVYwokYnurpKFixzz5jFixk1Ey8BYxp9yyU1xaiItX3IEAPkIPjKCHCM4orMlLrqBC7FwN7a3lKbZ3eKDHd/s0hZadm/gGolj4omlSWe4GLez7b+Bc4hUkC62wxa/PixvEY64jCdWWr5PFHGd4yXAeoNKjxHXVF8HRYGrlJYojd3lZK2Ngck1erPm9K74oEGV2XpyfmYGLQEDkmDY1fQ79c/reVrxBx+tV144BfbYhqx6o6mmx0OCCoYU=
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Bouton simple
+         
+        type : 14
+      -
+        code : |1+
+         Sablier(Vrai)
+         nConnexion est un entier = ""
+         nConnexion = FTPConnecte(SAI_adresse, SAI_Utilisateur, SAI_password,SAI_port)
+         
+         si nConnexion = -1 ALORS
+         	Sablier(Faux)
+         	Erreur(ErreurInfo())
+         	
+         sinon
+         	Sablier(Faux)
+         	Info("Connection OK","Vous pouvez Valider")
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAABd4biPtdLQOwfUFiqrit8H4xfGqKyz9t6VLxCUnNZRQiLPVs82PZNE+UVdKRzjizyeuKyRur85gNMUfqplpmtNDnQWQla9zo+GH9+1EfUJ6w17Dn/egD/gv+Hhywk8c9unIdzEp7EHgaAqD28w7Agveg4u19PBcKGZtQ==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     code : |1+
+      chargeINI()
+     type : 34
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : chargeINI
+     procedure_id : 2234641449418068836
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // chargeINI ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure chargeINI()
+      //Lecture du fichier INI avec les identifiants FTP
+      sFichierINI est une chaine = fRepEnCours() + "\PARAM.INI"
+      
+      SAI_adresse = INILit("LANNEXEFTP", "ADDR", "Vide", sFichierINI)
+      SAI_port = INILit("LANNEXEFTP", "PORT", "Vide", sFichierINI)
+      SAI_Utilisateur = INILit("LANNEXEFTP", "USER", "Vide", sFichierINI)
+      SAI_password = Décrypte(INILit("LANNEXEFTP", "PASSWORD", "Vide", sFichierINI),"sicalait2020",compresseChaîneCourte,Vrai)
+      
+      
+      
+     type : 458752
+   -
+     name : ecritINI
+     procedure_id : 2234646581904068726
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      // ecritINI ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure ecritINI()
+      sFichierINI		est une chaine	= fRepEnCours() + "\PARAM.INI"
+      
+      sChaîneCryptée	est une chaîne
+      sChaîneCryptée = Crypte(SAI_password, "sicalait2020", CompresseChaîneCourte, Vrai)
+      
+      
+      INIEcrit("LANNEXEFTP", "ADDR", SAI_adresse, sFichierINI)
+      INIEcrit("LANNEXEFTP", "USER", SAI_Utilisateur, sFichierINI)
+      INIEcrit("LANNEXEFTP", "PASSWORD", sChaîneCryptée, sFichierINI)
+      INIEcrit("LANNEXEFTP", "PORT", SAI_port, sFichierINI)
+      
+      si fFichierExiste(sFichierINI) ALORS
+      	info("Paramètres de configuration OK")
+      	Ferme(FEN_Paramètres_de_connection_au_serveur_FTP)
+      FIN
+      
+      
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1f0304cf007f1e3f
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

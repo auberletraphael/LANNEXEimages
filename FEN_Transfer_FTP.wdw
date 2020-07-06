@@ -1,0 +1,132 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Transfer_FTP
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Transfer_FTP
+ identifier : 0x2f02f26b018d4638
+ internal_properties : BQAAAAUAAABudp0PFcJZITUQmnz8kVvcL3sLCMqMxh9IbhJsGjeqG+dNuQZyGknRDLb6eAtrn/ZGTSvgAEjMW8HYZpTLUNzbnN/4FCM8wW9vjc0IxLbYTSK4xGJbDxyyHzuDiDQ+I2HbzQryvc4tZvmkiE5N0BeGa93T+AyszgCHuucrMPi3syfsSqoFiAf7m0ufX5WMLaDiV77HeLstjWKgbMoh18kIljSLior81OW/kN1hMpGcHblUQtooKDp56hqEHqEa3qKjh1hnOmxwqEXwfzGv3NwCaSL4VO7ZIH+g8gEG+miWL0IeDwC+Ci4cCzBxNA6xA6Eur4wChO8xod/fG1vZGwLe/BCTWWM1uchjLBaZsCvyjSMu18ZRepZUBqzhNRfqr6n9CHSMVYaLifd+YBhNKLdebuydZVgUSVDQfg2ib2qAt5fajycsrW/CFNa+lssLQ71FjOu8CJr3JA0LfXHlVNt4BgrDjZEZrlOCU7AinXOtnIs/xqXdWcapxRNf6nXxpQV3HgKHfd9O8CzLrXF8JWaTh6z7PbaMJm8mlkmLMIu7Dg7WjWaBv8rQwYOfvotM/pzlSqofLrXXFOqnKhQXlMRDpXOaTOqIMaYh5TFX9K+/RUlJcxq1l0xOz/5NQ5zuW6bO0fkiugS56oeeXS+nIp/qD9+iRuuKr32MrgoT8jk6RY4OZhedi7mLZ0U4QI2YRix9cVwhlAGl8G+BPAjRpjXgaIpi5ByqEVdo5Gy98vOKV8vaa3m4j41JVPhn8ag9rQYJV6utkNJV
+ controls :
+  -
+    name : SAI_status
+    identifier : 0x2f02fefe02ab6422
+    internal_properties : BQAAAAUAAACiksaAYEBl7Jb39MJI/2ibg72+rHLLGFc7bpUsdZlhgrMuF12xgUiaKna9X2Wj+gJQNUrCyNJhmeclrIRAHCeF7qeKJufowXSvGEkx3qNWHj0HvDQnSTT0ODXqB5CcO4J4pI48UXVb3sb7UkI69ci9JztMGWwDw+ZSq8BLaGPeXa+uvU37keO9RFmizESuCVVpDEFuWSpi80BEbZ1pf1eEWPHX4O3zc3EVgXHsjTLx7bDmhpodKhuq4lLf52/Ao2llA2kGDKcw74heH0GfJyrqdopLlVaqb8j/rfiUFDp5hg1p9e5AGuBSgBVDc9KmFBncnawWQNYUFtXRw8aK/hvmOkGsGyGKGk+4yLThRRIBX+xqo30CSFppugMonLWihWT8zdmVdO5/oRQVVex5WykqSD48EfP+sbulxbVL9bh9rlwgdU2EZ5nRF9Wh4hRobABZgUDxqqNOeF6CormeN8dsDmiZ2avzN82n49JNf1Kd2odzOoBk4t75NawoK31cLgPlCLK4vrK+Y080dRjGkS3mGSwTnL53/qLOTSLz/sq8jAAbMhxAYZrdaKssm2WWw3uK6zGZxDBxyXG+woLWmhcxsItnH+f0rSF5Y8WKon/lrm30UywPaj1h/kPFzwlx4m3Qnt53ByW0k35ni0yqXuSZ3TqZUfozpw0kes+r1j2fqOEHdEIoZuon983eyehNh9uln8po90Psp8ur8v0M3DX80eoGrWfGwgJHbCG1CcfpzWLUlkGNRq2VZ6u4NwJUhR/a0iLBr3xrNgMaIxKww5xs9hpXAG9XSdnRGbD9yCAe/276BHXfm/KUFCfJuZNdmu3iLyDHf7bpWPz63JZIRHMe0DVRJqzx57BuD6Q+BwPLv9LZEEtWJLyQ8gk8bHWXkiv94GdsrbAcysMhXlirGMWQ2ZH1fQcy3x2HMkOQ9S2/caGQVuvLf5YyoUTRdqfqxxhrls2iQaSPbK4MvShYk85M0JYSUaHSuzEoAUtLX97OfVwzyp+qLMueSt9oHlAJppj9Orip3qT1v/HxheKepMKiNuE/cHgZMoqrS+p3Z0cjWRk7T5YYPJo8Hd1EfVV/47/3bVESvSf7azTwdUbm1TW3JyFYA7SA2Sw1rJV1qXYbG2OAn67NCUNKbV1+ZQ==
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : JAUGE_Jauge
+    identifier : 0x2f02fff5044928fa
+    internal_properties : BQAAAAUAAAAhqr/LSdMhZLK0lYUubJCnirHTcZ+7k+nQL9qvKh5Axv2xu8Ef7UhmJnCOfkz/Ueueeh5xy43wuxkBY47Z0J5VppOgCaJgfj/HkukLaC+fheo3mcrW+1HtKIBRSFfLLCqw2vfOud1ta/sz1drIYF3Tatjsw2Pn+1/ZBUwpqFAmiYdO2DRbM7EVeUbvp8n4aBJ5meAlDgThkvA1Dm7Ll1In2NQjlDqaumcj2YPvJvnYVn22eiTdHKhKCs6ICpjVPrxkiJNFZxPjJCcJTzI8NyZiDGjoo8+IE3qWNFEbwQ0r6DO+a5yhVd5bktrPgl3ZYkRQCE/6TqevxIbilH6fqXNL5Vcv71gP1inZtqAFvnDuS4kynT02BLk+BOumNJFSmpxEj1EfgATfjKIUyoWGQqaSX8tHVPy2sEW4xxUIIwPQjCpwsrSiPVDgO2+25oJyvDaItrI4hNFU4whcVpBdjTqJ0gvUezE74Gea+O77xoGAbXJ+n0TGzFvCWQ67w331Kqah2UhGi4wBWhuXd0e3qbA8bPSa7cVfLNbPG/s4V/IQ8ftus1zXFhKhlKM1lEA6e9oZ8RXgsYDO1qWEpji4IC3r4gCwc4vixJwRC38YGcozPz/IIkLrg/Ghw72NE3Z//Lh//q3APnIhuvUZRm6FwZhfHvNaf0xqFxui1mBXWzPjxx4vgQTRM5eJT0FaQd7GahCI9GAkN07zB6eSlhZrO6d/knvvQ4ql8NgkmROdNKpBFXP3kSTppz54ev1LMMWcoLzhlfSVBoWbh4KxcdN5f/vFtpmyKnNFcOjbQw==
+    type : 10
+    code_elements :
+     type_code : 17
+     p_codes :
+      -
+        code : |1-
+         // Version 1
+         // Description 
+         // JAUGE_Jauge linéaire simple horizontale
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAABd4biPtdLQOwfUFiqrit8H4xfGqKyz9t6VLxCUnNZRQiLPVs82PZNE+UVdKRzjizyeuKyRur85gNMUfqplpmtNDnQWQla9zo+GH9+1EfUJ6w17Dn/egD/gv+Hhywk8c9unIdzEp7EHgaAqD28w7Agveg4u19PBcKGZtQ==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+  controls :
+   -
+     name : CBM_SansNom
+     identifier : 0x2f0302e304559df5
+     internal_properties : BQAAAAUAAAA8NE1+tqxFJQ7OWQXXWLuGewM+94s6vgqd33Uo3LDj0P0ij/E7+4fx4Bxv/rUcFxC7QXmG9O+lrHLSDxE2XrYA3Gkun2Iwlw==
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre(gsChemin est une chaine)
+   -
+     code : |1-
+      
+      FTPUpload(gschemin)
+     type : 34
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : Jauge_Transfert
+     procedure_id : 2234632215230989697
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] Jauge_Transfert (<nCourant>, <nTotal>)
+      //
+      // Paramètres :
+      // 	nCourant : <indiquez ici le rôle de nCourant>
+      // 	nTotal : <indiquez ici le rôle de nTotal>
+      // Valeur de retour :
+      // 	booléen : // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      PROCÉDURE Jauge_Transfert(nCourant, nTotal)
+      Message("Transfert en cours...")
+      Jauge(nCourant, nTotal)
+      
+      // Est-ce que le transfert est fini ?
+      SI nCourant = nTotal ALORS
+      	Message("Transfert Terminé")
+      	Info("Transfert terminé")
+      FIN
+      RENVOYER Vrai
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1f02f26000081cc6
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

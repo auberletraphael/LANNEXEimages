@@ -1,0 +1,68 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : COL_ProcéduresGlobales
+ major_version : 25
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x1f0300130079a07b
+ internal_properties : BQAAAAUAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  type_code : 31
+  p_codes : []
+  procedures :
+   -
+     name : FTPUpload
+     procedure_id : 2234629981847868774
+     type_code : 15
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //FTPUpload (<sChemin> est chaîne)
+      //
+      // Paramètres :
+      //	sChemin (chaîne ANSI) : <indiquez ici le rôle de sChemin>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure FTPUpload(sChemin est une chaîne)
+      //informations de connexion
+      sFichierINI		est une chaine	= fRepEnCours() + "\PARAM.INI"
+      
+      sAdresseserveur est une chaîne = INILit("LANNEXEFTP", "ADDR", "Vide", sFichierINI)
+      sPortserveur est une chaine = INILit("LANNEXEFTP", "PORT", "Vide", sFichierINI)
+      sUtilisateurserveur est une chaine = INILit("LANNEXEFTP", "USER", "Vide", sFichierINI)
+      sPasswordserver est une chaine = Décrypte(INILit("LANNEXEFTP", "PASSWORD", "Vide", sFichierINI),"sicalait2020",compresseChaîneCourte,Vrai)
+      
+      
+      
+      nConnexion est un entier
+      nConnexion = FTPConnecte(sAdresseserveur, sUtilisateurserveur, sPasswordserver,sPortserveur)
+      
+      si nConnexion = -1 ALORS
+      	Erreur(ErreurInfo(errMessage))
+      	Ouvre(FEN_Paramètres_de_connection_au_serveur_FTP)
+      FIN
+      
+      SI FTPEnvoie(nConnexion, sChemin, "/www/wp-content/uploads/FromFTP", "Jauge_Transfert") = Faux ALORS
+      	Info("Echec du transfert")
+      FIN
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : BQAAAAUAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+  original_name : COL_SansNom1
+resources :
+ string_res :
+  identifier : 0x1f0300130078a07b
+  internal_properties : BQAAAAUAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BQAAAAUAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

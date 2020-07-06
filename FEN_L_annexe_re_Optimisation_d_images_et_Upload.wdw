@@ -10,12 +10,12 @@ info :
 window :
  name : FEN_L_annexe_re_Optimisation_d_images_et_Upload
  identifier : 0x2efc0ea100767ee4
- internal_properties : BQAAAAUAAAAxDXIby3RosDl35dHUFjAVoum+IJC/yDtLDQAE+A5fk3AW4VjW9YfIkaBZ+r8dT3vmDbdA6Tu9ufTry/+CKHkMmEW8NakWpj/FCxnxfFD2omfbtex7EBnwrycPaJC5bPdWRSjUjHdzorLTykK3iH88fMfsPzSB6hlBY3DFGe7Ph84JQCFp5T8hXr2hWiB88q0YE2IS6ycswSP9dukJAaM/maMYCKARO9IMTB2B+p283Zn8SYrzLU7JwDsAeI5IL2QbjE6BfEZ2I3lBp8UGjRtzkqJ1mkmDlpFz9LktGd72xrTbRbOanthmgRfH5wYScGns9ThIxAOiDBWcff7GC+5cCLsneN+SHmjL/CWUV9ewyU3X+tg7wqyk+BHjfMacQR4LkjG4knA4gQhwF03VXam52ZnUOXmhDxS7AMwG3tOkfgAKjGMnhKfW4vzXUfL3g+hkyN7GthFX7uUZCzatH52K0hTe5biN6ipeV2mPQQ8/I+A1reTPAtmHbdIlQij8o+N5wSiLkX3d2SI145W80OrKurkVHiSkDoioCq6dzmzegkBI8UHVdn+qs4lUVEiELM8l2sQU4ys2UO5cuDgqujm5b6npiEesQs647eGBBrVve6k1+CL+K5/8LnaMWFbxAP6m6r3WsMgKkurI5A47zfKmaALJamxOzVZpt+4mmjAKsVH9m/m4Hdr1Z7rJqafB8viL6YH/WMaN4+EvxE31u/GO3Gz8NVP9f80DbfPKEN/nCgwY
+ internal_properties : BQAAAAUAAAA3A3AZwXJuvovFd0eq7MYn2I9cDjbdtpkV6xoyxgRllU4M71bM45U2Ey7beD2T1e1sE0W27wmjhwZ5VWUYnrc2tlvCEzesRFVfgaMfys5kHO1hM9Jxbhf+uXVRXranWvlUQyZaEsVRuKSpjKDFzj1uItViVYKviOfDwRL7/3xFGWyf1o+fqx2PCDsD2KbK4K8uEaDgAe16H617IGd3T+HZ74Fehg6foXjWQkfvgFvyz39i36jpa5R3sokaVoQODdZhYuy/6swcASsfaWuEE7HFqLDLWJ/xdNeFeptjPzT0YALxc1FQBCZ002UpNbSo1vty44aeApkgcr9ixcbqXzrQgDfPOCO+Cmgr8IU0SzNMJXWTauCHzkj88ItBJrxGFzBpPC9KCLpuU34Cncd7h/87RwtCW0eLBXbZ7jqQUJHmzP54Au2ZyjGQyBKdy8T1jWZSjjQAmHehSOMHuQBnJReQCPLcdxoj1ESk7d/RUw25CfZT077RAMuJA1ib1CrK3amvb361a5vPe4CzAXeu/sQQECfL+E4yQAoOoJT3EDqIOCZm91vfbHmUqb86rvLaVuUr8NIW/RGAKrSyDuJMaItfpZffErkyXNgWi0+7eCP5ga8z/izgCXHO/ISaSkDnCoQscDtoIl6kLHBOerDlMxREhiDvtBbkZ/D3BbwQjC4Uv1+DEXMym1x35Ti3u7HX5O6B54f5UsyX7f8NIi+XGROs+gIKJ22bEV+R+wHECtXpCAoe
  controls :
   -
     name : EI_SansNom1
     identifier : 0x2efc0ee300a37ea1
-    internal_properties : BQAAAAUAAAA2oYIIz3kv2/rwu6czJMtjvYebaDvzWzZ5rYPiyyea28m5hzBEGWW/Ok91kR0bKIey4se2tGsAw8UBWvIZ7owtn9jBtcNWaL2jzzDvunZrg2Z4e/x2tzL1WjfB8LHchUG19wmaE4qKaC3+5uHu5XEGkZV/4mUOcJMJVvF6rlfRgxs9LOaH4flAM7H/oer9uGfbalivSyUlMs5Opq1uCew8YWT0+/pNND6fg3wQZSnilaAAsNWe/BtZbAmR1UyzBdAO2H5vEd/t3Zd5bdgsE5ffMMDNUwy3XgGHccoEmXkhO2xdBt04JIBCFQJbRIUWpgIpcN0YU0O+hmixSYTrkZfAba4yxDlJ+iauVCPlYWjoWr/NJG3ofMyA/abd70GLDCY8cAZWt30Q7h5iPAc2DMy6iR2pN8pYD+IAhAbPXZd5IhIR9Eldudr1PMgwV6GbIb9+y5Znpd+TMbPkNiWNqGxP2WzwH16/TGY57WlfM8tU0u4Xzll0H6w9cDrT1s7OsCZHjmD7RBJnfsqgxjUEiNBIOE8nGWS8fhYJ3JVoi8tzLX7yPLri2pjCZp9jHcFf+2Wu0jnK
+    internal_properties : BQAAAAUAAACqHQaMs/2Tj07cR4OfAOcfKeuXZCePNyKFsbfmz9vuD31l2/SIXSnzDrvh/Yn3pBM+VlOiAAfcD4E1DqbNMkDhUxSF+fe5WqP3e5J7+q5L4waIuyJc/RDXFjtHjJk4ka3Fh/nwNQywpvlasKEmoVUi0VXfyIPE+kFtigs2CgMp009p8BAtJ6e609E5zT6pOFcTqlgldX8nPLqSQAEOIRSs3VDsobgr2lwDR7p82b0KLbQU5C+g1uEzzKGX5Qz73YDaHNIhW/EHc1cpN5AYL9fv4GjhfW4ZtOu7FYWnBqRqgivUkQgBY7cD+vM2X7L5i3W8WzBT9JL9T8EqSIu0GAy7aGGtH9p4Kc+HSaI8ug/RUTaEL6ABi8u5emMAgh7uoblTzyWFzOB7o5NHk+43C72Z5ChMgrOHRmNxXU2Ozj5GbVUUT6wGoNHyuWFnNoL6NkLlegU2KtKO6ig9EQBCGwHizGejop/+c8eecmxSABaA/rpbih2w22BxpO4HmooChHo7+tR32IbT6mYMsgHI1AwEdANTbRDIghoN0Jlsl99nIXLuIEZWrnQegntPaRXrd+EqVrVO
     type : 124
     code_elements :
      type_code : 149
@@ -108,6 +108,17 @@ window :
      code_elements :
       type_code : 26
       p_codes : []
+   -
+     name : OPT_Paramètres
+     identifier : 0x2f031b3104d98add
+     internal_properties : BQAAAAUAAABdyD8/K8RF7qT5WJVMcaDG5d1biuWC4mDfGfNUdNl6IUZkwuvYhbtoYmMKaRQ4+QRISczwCtScRDibcz5GgMIapOp/eBOUQm2q9FhXxlc5Fibb/fPmdGhCIp8KlDEfu0qSR7IeRKreAQEpEYlD8R0ZH0NNr1c32GaI/FP62yF4xP3ObToAoSY=
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         code : |1+
+          Ouvre(FEN_Paramètres_de_connection_au_serveur_FTP)
+         type : 32
   code_elements :
    type_code : 26
    p_codes : []
@@ -233,16 +244,18 @@ window :
       // Ouvre le sélecteur d'images
       sFichier			= fSélecteurImage("", "", "Sélectionnez une image...")
       
+      si sFichier <> "" ALORS
+      	CalqueImage..Image	= dChargeImage(sFichier)
+      	
+      	
+      	
+      	Ajoute(MonImage..Calque, CalqueImage)
+      	
+      	
+      	// ré affichage de l'image dans l'éditeur
+      	EI_SansNom1 = MonImage
+      FIN
       
-      CalqueImage..Image	= dChargeImage(sFichier)
-      
-      
-      
-      Ajoute(MonImage..Calque, CalqueImage)
-      
-      
-      // ré affichage de l'image dans l'éditeur
-      EI_SansNom1 = MonImage
       
       
       
@@ -300,7 +313,7 @@ window :
      name : UploadImage
      procedure_id : 2232810358815458495
      type_code : 14
-     code : |1-
+     code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
       // UploadImage ()
@@ -314,19 +327,60 @@ window :
       // Indiquez ici un exemple d'utilisation.
       //
       procédure UploadImage()
+      sRéponse est une chaine = sauvegardeFichierTEMP()
       
-      // Upload media avec API REST
+      si sRéponse <> "ERR" ALORS
+      	Ouvre(FEN_Prévisualiser,sRéponse)
+      sinon
+      	Erreur("Une erreur s'est produite")
+      FIN
+     type : 458752
+   -
+     name : sauvegardeFichierTEMP
+     procedure_id : 2234569079203723591
+     type_code : 14
+     code : |1-
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //[ <Résultat> = ] sauvegardeFichierTEMP ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	chaîne ANSI : // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure sauvegardeFichierTEMP()
       
-      maRequette est une httpRequête
-      maRéponse est une httpRéponse
+      sRepertoireAppli	est une chaîne	= fRepEnCours()
+      sRepertoireImages	est une chaîne	= sRepertoireAppli + "\Images\"
       
-      maRequette.URL="https://le-grand-duc.fr/wp-json/wp/v2/media/"
-      maRequette.Méthode=httpGet
-      maRequette.Entête["Authorization"] = "Bearer qIGIj5VCvztZ1DXCrixnMsyy3AiLFxLB" //exemple entete
+      fRepCrée(sRepertoireImages)
       
-      maRéponse = HTTPEnvoie(maRequette)
       
-      info(maRéponse.CodeEtat,maRéponse.Contenu)
+      MonImage est une Image
+      MonImage = EI_SansNom1
+      
+      sNomImage est une chaîne = Ouvre(FEN_Entrez_le_nom_de_l_Image)
+      
+      
+      SI sNomImage <> "@" ALORS
+      	bResultat est un booléen
+      	// Sauvegarde l'image
+      	bResultat = dSauveImageJPEG(MonImage,sRepertoireImages + sNomImage+".JPG", 30)
+      	
+      	
+      	SI bResultat ALORS
+      		RENVOYER sRepertoireImages + sNomImage + ".JPG"
+      	SINON
+      		renvoyer "ERR"
+      	FIN
+      SINON
+      	renvoyer "ERR"
+      	
+      FIN
      type : 458752
   procedure_templates : []
   property_templates : []
