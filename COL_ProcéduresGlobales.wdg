@@ -55,6 +55,67 @@ procedure_set :
       FIN
       
      type : 458752
+   -
+     name : FTPUploadV2
+     procedure_id : 2234987580817754242
+     type_code : 15
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //FTPUploadV2 (<sChemin> est chaîne)
+      //
+      // Paramètres :
+      //	sChemin (chaîne ANSI) : <indiquez ici le rôle de sChemin>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      procédure FTPUploadV2(sChemin est une chaîne)
+      Message("Lecture du fichier INI...")
+      
+      //trace("LECTURE INI")
+      //informations de connexion
+      sFichierINI			est une chaine	= fRepEnCours() + "\PARAM.INI"
+      
+      sAdresseserveur		est une chaîne	= INILit("LANNEXEFTP", "ADDR", "Vide", sFichierINI)
+      sPortserveur		est une chaine	= INILit("LANNEXEFTP", "PORT", "Vide", sFichierINI)
+      sUtilisateurserveur	est une chaine	= INILit("LANNEXEFTP", "USER", "Vide", sFichierINI)
+      sPasswordserver		est une chaine	= Décrypte(INILit("LANNEXEFTP", "PASSWORD", "Vide", sFichierINI),"sicalait2020",compresseChaîneCourte,Vrai)
+      
+      //trace("CONNXION AU SERVEUR " + sAdresseserveur)
+      Message("Connexion au serveur : " + sAdresseserveur + " ...")
+      
+      
+      nConnexion est un entier
+      nConnexion = FTPConnecte(sAdresseserveur, sUtilisateurserveur, sPasswordserver, sPortserveur)
+      
+      si nConnexion = -1 ALORS
+      	//trace("ERREUR IDENTIFICATION")
+      	message("Erreur de connexion FTP")
+      	Erreur(ErreurInfo)
+      	
+      	
+      sinon
+      	Message("Upload de l'image en cour...")
+      	SI FTPEnvoie(nConnexion, sChemin, "/www/wp-content/uploads/FromFTP") = Faux ALORS
+      		Message("Echec du transfert")
+      		Info("Echec du transfert")
+      		Erreur(ErreurInfo())
+      	sinon
+      		Message("Transfert OK")
+      		info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
+      		LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      		Ferme(FEN_Prévisualiser)
+      		
+      	FIN
+      	
+      	
+      FIN
+      
+      
+     type : 458752
   procedure_templates : []
   property_templates : []
  code_parameters :
