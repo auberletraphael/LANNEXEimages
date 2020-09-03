@@ -330,9 +330,9 @@ window :
       // Indiquez ici un exemple d'utilisation.
       //
       procédure UploadImage()
-      sRéponse est une chaine = sauvegardeFichierTEMP()
+      sRéponse est un tableau = sauvegardeFichierTEMP()
       
-      si sRéponse <> "ERR" ALORS
+      si sRéponse..Occurrence > 0 ALORS
       	Ouvre(FEN_Prévisualiser,sRéponse)
       sinon
       	Erreur("Une erreur s'est produite")
@@ -342,7 +342,7 @@ window :
      name : sauvegardeFichierTEMP
      procedure_id : 2234569079203723591
      type_code : 14
-     code : |1-
+     code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
       //[ <Résultat> = ] sauvegardeFichierTEMP ()
@@ -350,12 +350,15 @@ window :
       // Paramètres :
       //	Aucun
       // Valeur de retour :
-      // 	chaîne ANSI : // 	Aucune
+      // 	tableau : // 	Aucune
       //
       // Exemple :
       // Indiquez ici un exemple d'utilisation.
       //
       procédure sauvegardeFichierTEMP()
+      
+      tabLien est un tableau de chaines
+      
       
       sRepertoireAppli	est une chaîne	= fRepEnCours()
       sRepertoireImages	est une chaîne	= sRepertoireAppli + "\Images\"
@@ -370,25 +373,47 @@ window :
       
       
       SI sNomImage <> "@" ALORS
-      	bResultat est un booléen
-      	// Sauvegarde l'image
-      	bResultat = dSauveImageJPEG(MonImage,sRepertoireImages + sNomImage+".JPG", 30)
-      	// rajouter le thumbnail*
-      	
-      	dRedimensionne(MonImage,150,150)
-      	
-      	dSauveImageJPEG(MonImage,sRepertoireImages + sNomImage + "_min.JPG",30)
-      	
-      	
-      	SI bResultat ALORS
-      		RENVOYER sRepertoireImages + sNomImage + ".JPG"
-      	SINON
-      		renvoyer "ERR"
-      	FIN
-      SINON
-      	renvoyer "ERR"
+      //	bResultat est un booléen
+      //	
+      //	// Sauvegarde l'image
+      //	// V1
+      //	bResultat = dSauveImageJPEG(MonImage,sRepertoireImages + sNomImage+".JPG", 30)
+      //	// rajouter le thumbnail*
+      //	
+      //	dRedimensionne(MonImage,150,150)
+      //	
+      //	dSauveImageJPEG(MonImage,sRepertoireImages + sNomImage + "_150.JPG",30)
+      //	
+      //	
+      //	SI bResultat ALORS
+      //		RENVOYER sRepertoireImages + sNomImage + ".JPG"
+      //	SINON
+      //		renvoyer "ERR"
+      //	FIN
+      //SINON
+      //	renvoyer "ERR"
+      
+      sauveImages(sNomImage)
+      sauveImages(sNomImage,300,300)
+      sauveImages(sNomImage,150,150)
+      
+      renvoyer tabLien
       	
       FIN
+      
+      procédure interne sauveImages(sNomImageJPG est une chaine , nH est un entier = 1500 , nL est un entier = 1500)
+      	bRésultat est un booléen
+      	sChainetaille est une chaine = nH
+      	
+      	bRésultat = dRedimensionne(MonImage,nL,nH)
+      	si bRésultat ALORS
+      		bRésultat = dSauveImageJPEG(MonImage,sRepertoireImages + sNomImageJPG + "_" + sChainetaille + ".jpg",30)
+      		si bRésultat = Vrai ALORS
+      			TableauAjoute(tabLien,sRepertoireImages + sNomImageJPG + "_" + sChainetaille + ".jpg")
+      		FIN
+      		
+      	FIN
+      fin
      type : 458752
   procedure_templates : []
   property_templates : []

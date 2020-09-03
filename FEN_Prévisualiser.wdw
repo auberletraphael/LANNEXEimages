@@ -62,10 +62,22 @@ window :
       -
         code : |1+
          si OuiNon("Voulez vous supprimer cette image ?") ALORS
-         	SI fSupprime(SAI_Chemin) ALORS
-         		Info("le fichier a été supprimé")
-         		Ferme(FEN_Prévisualiser)
+         	i est un entier =1 
+         	
+         	tantque i <= gtabCheminImage..Occurrence
+         		fSupprime(gtabCheminImage[i])
+         		i++
          	FIN
+         	
+         	
+         	info("Le fichier a été supprimé")
+         	Ferme(FEN_Prévisualiser)
+         	
+         // V1	
+         //	SI fSupprime(SAI_Chemin) ALORS
+         //		Info("le fichier a été supprimé")
+         //		Ferme(FEN_Prévisualiser)
+         //	FIN
          FIN
          
         type : 18
@@ -124,11 +136,11 @@ window :
   p_codes :
    -
      code : |1+
-      PROCEDURE MaFenêtre(gsCheminImage est une chaine)
+      PROCEDURE MaFenêtre(gtabCheminImage est un tableau de chaines)
    -
      code : |1+
-      IMG_visu = gsCheminImage
-      SAI_Chemin = gsCheminImage
+      IMG_visu = gtabCheminImage[1]
+      SAI_Chemin = gtabCheminImage[1]
      type : 34
    -
      type : 230
