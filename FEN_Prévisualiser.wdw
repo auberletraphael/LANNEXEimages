@@ -38,7 +38,7 @@ window :
       -
         code : |1+
          
-         FTPUploadV2(SAI_Chemin)
+         FTPUploadV2(gtabCheminImage)
         type : 18
       -
         type : 161

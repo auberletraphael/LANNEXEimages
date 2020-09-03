@@ -62,17 +62,17 @@ procedure_set :
      code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
-      //FTPUploadV2 (<sChemin> est chaîne)
+      //FTPUploadV2 (<tabImages> est tableau)
       //
       // Paramètres :
-      //	sChemin (chaîne ANSI) : <indiquez ici le rôle de sChemin>
+      //	tabImages (tableau) : <indiquez ici le rôle de sChemin>
       // Valeur de retour :
       // 	Aucune
       //
       // Exemple :
       // Indiquez ici un exemple d'utilisation.
       //
-      procédure FTPUploadV2(sChemin est une chaîne)
+      procédure FTPUploadV2(tabImages est un tableau de chaines)
       Message("Lecture du fichier INI...")
       
       //trace("LECTURE INI")
@@ -95,24 +95,53 @@ procedure_set :
       	//trace("ERREUR IDENTIFICATION")
       	message("Erreur de connexion FTP")
       	Erreur(ErreurInfo)
+      	retour
       	
       	
       sinon
-      	Message("Upload de l'image en cour...")
-      	SI FTPEnvoie(nConnexion, sChemin, "/www/wp-content/uploads/FromFTP") = Faux ALORS
-      		Message("Echec du transfert")
-      		Info("Echec du transfert")
-      		Erreur(ErreurInfo())
-      	sinon
-      		Message("Transfert OK")
-      		si OuiNon("Transfer OK, Voulez vous ouvrir le plugin d'importation sur le site de l'annexe.re ?") ALORS
-      			Info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
-      			LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      	i est un entier
+      	
+      	Sablier(Vrai)
+      	
+      	pour i = 1 _a_ tabImages..Occurrence
+      		message("Upload de l'image " + i + " en cours...")
+      			SI FTPEnvoie(nConnexion, tabImages[i], "/www/wp-content/uploads/FromFTP") = Faux ALORS
+      				Sablier(Faux)
+      				Message("Echec du transfert")
+      				Info("Echec du transfert")
+      				Erreur(ErreurInfo())
+      				retour
       			
-      		FIN
-      		Ferme(FEN_Prévisualiser)
+      			FIN
+      	
+      	fin
+      	
+      	Sablier(Faux)
+      	
+      	SI OuiNon("Transfer OK, Voulez vous ouvrir le plugin WordPress d'importation sur le site de l'annexe.re ?") ALORS
+      		//Info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
+      		LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
       		
       	FIN
+      	
+      	Ferme(FEN_Prévisualiser)
+      	
+      // V1
+      //	Message("Upload de l'image en cour...")
+      //	SI FTPEnvoie(nConnexion, sChemin, "/www/wp-content/uploads/FromFTP") = Faux ALORS
+      //		Message("Echec du transfert")
+      //		Info("Echec du transfert")
+      //		Erreur(ErreurInfo())
+      //	sinon
+      //		Message("Transfert OK")
+      //		si OuiNon("Transfer OK, Voulez vous ouvrir le plugin WordPress d'importation sur le site de l'annexe.re ?") ALORS
+      //			//Info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
+      //			LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      //			
+      //		FIN
+      //		Ferme(FEN_Prévisualiser)
+      //		
+      //	FIN
       	
       	
       FIN

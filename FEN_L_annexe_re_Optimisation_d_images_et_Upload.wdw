@@ -397,9 +397,14 @@ window :
       sauveImages(sNomImage,300,300)
       sauveImages(sNomImage,150,150)
       
-      renvoyer tabLien
+      
       	
       FIN
+      
+      
+      RENVOYER tabLien
+      
+      
       
       procédure interne sauveImages(sNomImageJPG est une chaine , nH est un entier = 1500 , nL est un entier = 1500)
       	bRésultat est un booléen
