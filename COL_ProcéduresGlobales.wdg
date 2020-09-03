@@ -84,7 +84,7 @@ procedure_set :
       sUtilisateurserveur	est une chaine	= INILit("LANNEXEFTP", "USER", "Vide", sFichierINI)
       sPasswordserver		est une chaine	= Décrypte(INILit("LANNEXEFTP", "PASSWORD", "Vide", sFichierINI),"sicalait2020",compresseChaîneCourte,Vrai)
       
-      //trace("CONNXION AU SERVEUR " + sAdresseserveur)
+      //trace("CONNEXION AU SERVEUR " + sAdresseserveur)
       Message("Connexion au serveur : " + sAdresseserveur + " ...")
       
       
@@ -105,8 +105,11 @@ procedure_set :
       		Erreur(ErreurInfo())
       	sinon
       		Message("Transfert OK")
-      		info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
-      		LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      		si OuiNon("Transfer OK, Voulez vous ouvrir le plugin d'importation sur le site de l'annexe.re ?") ALORS
+      			Info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
+      			LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      			
+      		FIN
       		Ferme(FEN_Prévisualiser)
       		
       	FIN
