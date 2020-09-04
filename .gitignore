@@ -27,3 +27,6 @@ HstDuree.log
 android
 *.xcode.gen
 Install_Ex\303\251cutable Windows 32 bits/
+*.msi
+*.exe
+
