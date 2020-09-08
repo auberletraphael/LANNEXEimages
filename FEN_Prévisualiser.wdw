@@ -38,7 +38,7 @@ window :
       -
         code : |1+
          
-         FTPUploadV2(gtabCheminImage)
+         gbImageUploadé = FTPUploadV2(gtabCheminImage)
         type : 18
       -
         type : 161
@@ -69,7 +69,7 @@ window :
          		i++
          	FIN
          	
-         	
+         	gbImageUploadé = Vrai
          	info("Le fichier a été supprimé")
          	Ferme(FEN_Prévisualiser)
          	
@@ -137,11 +137,28 @@ window :
    -
      code : |1+
       PROCEDURE MaFenêtre(gtabCheminImage est un tableau de chaines)
+      
+      gbImageUploadé est un booléen = Faux
+      
    -
      code : |1+
       IMG_visu = gtabCheminImage[1]
       SAI_Chemin = gtabCheminImage[1]
      type : 34
+   -
+     code : |1+
+      // vérification de l'envoi d'image sur le site
+      SI gbImageUploadé = Faux ALORS
+      	SI OuiNon("Vous n'avez pas envoyer l'image sur le site de l'Annexe." + RC + "Voulez vous fermer cette fenêtre de prévisualisation ?" ) = Faux ALORS
+      		RepriseSaisie(BTN_Valider)
+      	FIN
+      FIN
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 177
    -
      type : 230
      enabled : false

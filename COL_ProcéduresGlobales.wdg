@@ -62,12 +62,12 @@ procedure_set :
      code : |1+
       // Résumé : <indiquez ici ce que fait la procédure>
       // Syntaxe :
-      //FTPUploadV2 (<tabImages> est tableau)
+      //[ <Résultat> = ] FTPUploadV2 (<tabImages> est tableau)
       //
       // Paramètres :
       //	tabImages (tableau) : <indiquez ici le rôle de sChemin>
       // Valeur de retour :
-      // 	Aucune
+      // 	booléen : // 	Aucune
       //
       // Exemple :
       // Indiquez ici un exemple d'utilisation.
@@ -95,7 +95,7 @@ procedure_set :
       	//trace("ERREUR IDENTIFICATION")
       	message("Erreur de connexion FTP")
       	Erreur(ErreurInfo)
-      	retour
+      	renvoyer Faux
       	
       	
       sinon
@@ -110,7 +110,7 @@ procedure_set :
       				Message("Echec du transfert")
       				Info("Echec du transfert")
       				Erreur(ErreurInfo())
-      				retour
+      				renvoyer faux
       			
       			FIN
       	
@@ -118,13 +118,17 @@ procedure_set :
       	
       	Sablier(Faux)
       	
-      	SI OuiNon("Transfer OK, Voulez vous ouvrir le plugin WordPress d'importation sur le site de l'annexe.re ?") ALORS
-      		//Info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
-      		LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
-      		
-      	FIN
+      //	SI OuiNon("Transfer OK, Voulez vous ouvrir le plugin WordPress d'importation sur le site de l'annexe.re ?") ALORS
+      //		//Info("Transfert OK, Redirection vers le Plugin Wordpress pour terminer l'import")
+      //		LanceAppliAssociée("https://lannexe.re/wp-admin/admin.php?page=mediafromftp-search-register")
+      //		
+      //	FIN
+      
+      info("Images Envoyées sur le site de l'Annexe.re")
       	
-      	Ferme(FEN_Prévisualiser)
+      	
+      	
+      	renvoyer Vrai
       	
       // V1
       //	Message("Upload de l'image en cour...")

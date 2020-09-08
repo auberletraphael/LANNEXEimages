@@ -10,12 +10,12 @@ info :
 window :
  name : FEN_L_annexe_re_Optimisation_d_images_et_Upload
  identifier : 0x2efc0ea100767ee4
- internal_properties : BQAAAAUAAAAyCHMcymt3sTh25NDbRWneA1A7rRM6U6x+AAM/wzFQeKXZFq11FG4hCFfwkeY0tMzPdCjpzG5AImOGdob5f1bV8RzpAkC9dey0ipxw86dvKxxyInlqR6ghHhby/xc47XDfzIFl8yZq4x1SZTluZ6TlpV712BP4Aa7o2hvM4BUskPcAqbLsSHJqpahM4Z8TO3aBYle3uhbLjtKskXAQYMCo1lJNLefAuqO/GwA0TdABagKP1p/mAPFS3+aLW6mj0BE8p5dyE4VluBAokrx95EDUW8G6b4zmiTq+T5RkAGUvH60aqriNITsjjALGwpGV/Z4ReJGBF74N0Sh/baKYPfaUbN2LnCWYyGr/xrFkFY3wMbEpUggJcEY+LLwIH1vHloHoYcYjF/O1CA1/+OSuZKZ0UtztkALQAC+GW5dzc37z35OVJ8i871y9Jb/K5t/Ktg37N21HR4CoUfjsnht6MgD/mQPtZinci/1tJpgYmtZ2RLOQkHEs7b76sLV4N1W/5rBUlBso5mCKtMlMqo6FFy3/YfAcFy0TL3u/EQVGp5MxZ/e3QIKmpbBNFiyXCRWHIzCUWUutVPp3I72LV1n72RjqLhhYqRCbw0GPNPjSV0Te5DC8d6N/qhBvXSU76ScAc3M9AURfOUeLFWl3E9/UJCVbv9kQkzWFBhHUIlmzb0txGjjk8hKRRAOc3iGgkkggHaXWvOwERdGS5uQiN9JyPnQTQ8tDfgQMgMwCbPLLEd7mCw8b
+ internal_properties : BQAAAAUAAAD6UCtkYpPPmcAuzLhzbUGmWwjDhbuS+8R2CDtXq4nYEM2BznWt/IbJkK9Y+b4cTHTnDLBB1Aao+htuTn4Bt/6NGcQhShiFbfS8okS4qy+Hs5RqKnFSf7AZFh6K9x8w9QhH1JltC+14HSkcDQH0zUj5bZxxVBU6l4QQQL84sgcUeN8elRZy/vSEOQI4heG1o67hEBubbKBJ3LIqrVTawuDwxohZCZlK0GFvYeQsW85lxn55eosMNsO40+hb8y8hzN042QeKdX8Lmli2VgxTCjBsc5fSB+p06zC6YRwErhMf5704rvxDj+2lyCTGWr/LOVKNotlJeXjTgzRhZQ6Cp9p4sFd/eNMGQggz0F10C/Mk9Q3LIqjvLmik4M/92jgK03QlcHvuVH4ql5oWaSsX6xsPg68e76N/IWqrOoh65O342vh0HENBGgHIEtbzvWCZY5iovspqLJN15GVjD/JjWVk2frK6qeZXUOwmSbV7l7mXm0zrOdjNTE9hKTDliuIyb8dJ8/jLU/sf06qHt/lKIppabtcZqpouJH4kqMa9QPpCvki6mblvVLGUKxuoAB6+6GuBmChAwU3EfnraADgEwLHJNyOxQIFqBBDw19UJjzzm7DhEj5t3shh3VS0z8S8Ia2s1eczHwf9DTVFvG9fMXG0j54FI6+3NTtnsCrEblzMJslD8mvq5HNv0ZrnIqqD4xc3+ZAR83Xk6Dtwqz3rapowre4OLpuxk2KQqRNojqTYOM9dj
  controls :
   -
     name : EI_SansNom1
     identifier : 0x2efc0ee300a37ea1
-    internal_properties : BQAAAAUAAAA6LbYcIw0DP54MN3OPEJcveTtHtBefJxIVISeW/2ten431SwS4rVnjHquRrXlH1CMOJoPycBdMvxFl/lZ9wrAxo+T1SWfIADE3KyzTYmpDazpUu4DSe9qJhtM9fAmIJdmx+wFebx66JIkCYu0OOQE2Zdk/HjEiUOcNYuVmfns581fxfHqjnfFUN63L1erJuEcHplgbDxnF3qpCEmmmjXzk7eAMXwYp3Mobr0AsddWqTXzMKGHqKDvFAO29weRXTaAyBD7TpbNFMZN1ceQ0Pz9XhIRtP+jzXo0L9bwOl3tzmcILQAdGpgIEmyz9nvO4SEDnXh960f1wgKZD0wYpkwm24+Qklhe7dNhcRi231xriULVrdseOht6KewgHmQ8dVjzSTqAYPeeSeJTstoGshi4I94sbQbg68YSG7ohR0znT+EjPNoPzs9w3oqISSXf1E/08MQjJIyn1U1E2+H+b+h6NH4KambyJFqhv10PpuSXwbgor2k2AC5AhFJ63KhqSdGoLyiSnqPZDWpb8ohHYpDw0BJPj3aB4Mkp9QAn8Z+9XEUI+8HYmnmQOsiv/uaV751G65sW+
+    internal_properties : BQAAAAUAAAB67fbcY03Df17M9zNPUFfvOXsH9NdfZ9JVYWfWPyue3821i8T47Rkj3mtRbTmHlOPOZkMyMNeMf1GlPpa9gvBx46Q1CacIILH3K6zTIirD6zpU+0BS+xrJBpP9vImIZRlxu4HeL966JMkC4u3O+QE25Vn/3rGikKcNIiWm/nv5M5exfHrj3fFUd63L1aoJOEeHphjbDxmFnqoC0qmmjbwkraCMX8bpXMpbL8CstZUqTXxM6KHqKHsFAK19AeTXjWByxD5TZXPFsdN1ceT0f79XBIQt/2jzns2LNZxu99sTOeLr4KdmRqJke4zd/lOYaGCHPj8acR2Q4IajM+YJcylWA8TEtjfblLi8Jo0Xt/oCcNXLFmcuJn7qW2jn+e/99lzyrsA43QeyWPTMFmEMZk4ol2u74VjakWRmzmixMxlzGOiv1iOT0/yXAgJyKVfVsx3cEahpw0kVs7EWWN972r4tP+I6OdwptohPN6NJGWUwLkrrGo1AS9Dh1N53alpSNKrLCuRn6LYDmta84tGY5Hz0RFMjHWC4cgo9gMk8p68XUQJ+sDZmXiRO8us/eWW7JxH6pgX+
     type : 124
     code_elements :
      type_code : 149
@@ -74,8 +74,11 @@ window :
       type_code : 26
       p_codes :
        -
-         code : |1+
+         code : |1-
           importeImage()
+          // sélection outil
+          
+          EnvoieTouche("^t")
          type : 32
    -
      name : OPT__3_Enregistrer
@@ -103,6 +106,9 @@ window :
           -
             code : |1-
              //info("Bientôt disponible, en cour de développement")
+             // sauvegarde des calques ASTUCE sélection outil crayon
+             EnvoieTouche("%c")
+             
              UploadImage()
             type : 32
      code_elements :
@@ -158,19 +164,20 @@ window :
       // on ferme l'image en cour
       PicFerme(EI_SansNom1)
       
+      
       selon nParamimage
       	cas 1
       		imageCré()
       	cas 2
       		imageCré()
-      		fondCré(16777215)
+      		fondcréV2(16777215)
       		
       	cas 3
       		nCouleur est un entier
       		SI SelectCouleur(nCouleur) ALORS
       			// Une couleur a été choisie, nCouleur contient la nouvelle couleur
       			imageCré()
-      			fondCré(nCouleur)
+      			fondcréV2(nCouleur)
       		FIN
       		
       	
@@ -204,13 +211,27 @@ window :
       	
       	Ajoute(MonImage..Calque, CalqueRectangle)
       	
+      	MonImage.FusionneCalque(1,2)
+      	
       	
       	// ré affichage de l'image dans l'éditeur
       	EI_SansNom1 = MonImage
       	
+      	
+      	
+      	
       	fin
       	
-      	
+      	procédure interne fondcréV2(nValCouleur est un entier)
+      		MonImage est une Image = EI_SansNom1
+      		
+      		dDébutDessin(MonImage)
+      		
+      		dRectangle(MonImage,0,0,1500,1500,nValCouleur)
+      		
+      		EI_SansNom1 = MonImage
+      		
+      	FIN
      type : 458752
    -
      name : importeImage
@@ -369,6 +390,7 @@ window :
       MonImage est une Image
       MonImage = EI_SansNom1
       
+      
       sNomImage est une chaîne = Ouvre(FEN_Entrez_le_nom_de_l_Image)
       
       
@@ -419,6 +441,8 @@ window :
       		
       	FIN
       fin
+      
+      
      type : 458752
   procedure_templates : []
   property_templates : []
